@@ -1,0 +1,378 @@
+//////////////
+
+Please note that most non-patch assets made by Scraiza are either commissions or music taken from the Souls of the Forest hack, something he agreed on.
+All assets here are F2U assets found on Klokinator's GitHub repository, with some music being F2U tracks found on various FireEmblemUniverse hacking events, and are not found on the repo.
+Portraits (Celindra, Reinfred and Céleste) made by Scraiza, along with SotF music, can NOT be used without authorization. In any case, if you want an asset from this hack,
+you'll most probably find it on Klokinator's repository.
+Souls of the Forest music can be used with Scraiza's approval before it eventually gets to the repository, and I personally have no right to allow you to use these tracks.
+Portraits, specifically, will most probably never be shared, thus they probably won't ever be F2U or F2E.
+
+//////////////
+
+### Portraits
+
+Celindra - Commission by Scraiza
+Reinfred - Commission by Scraiza
+Ashley - Commission by Scraiza
+Céleste - Commission by Scraiza
+Laëticia - Commission by Scraiza
+Artémisia - Commission by Scraiza
+Lisri - Commission by Scraiza
+Krul - Commission by Scraiza
+Nandil - Commission by Scraiza
+Rose - Commission by Scraiza
+Melchior - Commission by Scraiza
+Older Roy - Commission by Scraiza
+Older Lilina - Commission by Scraiza
+Héloïse - Scraiza
+
+Vetrelmar - LaurentLacroix
+Cecilia, Cath - RedBean
+Aline, Laurence - LaurentLacroix
+Branwyne - monk-han
+Xalvador, Sunilda, Frank, Eliot - LaurentLacroix
+Albree - LaurentLacroix, Levin 64
+Tristan - LaurentLacroix
+Rolph - LaurentLacroix
+Ashildr - LaurentLacroix
+Mervick - Sphealnuke
+Lumine, Celtinia, Ismena - Kanna
+Sarin, Carl, Leinvein - Levin64
+Lucie, Aria - Kanna
+Marine - Kanna
+Nick, Marvin - LaurentLacroix
+Erweln, Carlos, Alicia - MeatOfJustice
+Adrova, Adonis - XVI
+Rana, Lorelei - Parrhesia
+Brad - Keppler
+Linia - MeatOfJustice
+Torm - Lenh6
+Mona, Clara, Esarria - XVI
+Laurine - Raymond
+Leon, Ruby - Obsidian Daddy
+Felrindel, Dorein, Paul, Roswenn, Armin, Godefroy, Auguste, Simeon - Nickt
+Vincent - monk-han
+Maud, Gordil - CapibaraInSpace
+Lisa, Lierin - GhostBlade
+Viktor - AmBrosiac
+Erdrin - flasuban
+Lyn - MonkeyBard
+Nino - Spoon_Rhythm, Magelord Max
+Roy - BorsDeep
+Aureli - Free, Kanna
+Francis - Cravat
+Iztven - Random Wizard
+Myrian - Armory
+Linda - SSHX
+Jenny - It's Just Jay
+Umbra - Zwelix
+Oswald - MegaCowsamMan
+Eyris - Zeldacrafter
+Eiran, Morgane - Mexicancactus2911
+Lily - Kanna
+Charlie - LaurentLacroix
+Gerth - MegaCowsamMan
+Connyn - Goldblitzx
+Guinivere, Klein - Plant_Academy
+Elceer - SirNicee
+Archéa - Lenh
+Améline - Kon
+Pearl - Der
+Reine - Kanna
+Liam - Peerless
+Sheryl - LaurentLacroix
+Sheiro - SaintRubenio
+Illescia - Shirex
+Eleanora - redlightning
+Rebecca - Spoon_Rhythm, Teelvade, UltraFenix
+Jan - topazlight
+Bors - UltraFenix
+Clarine - Redbean, Plant_Academy
+Batta - SaintRubenio
+Merlinus (Blinking) - Shin19
+Héloïse (Year 1023) - Kanna
+
+Dreyjan - Random Wizard
+Tarema, Lancelot - Matthieu
+Esmeralda - Kanna
+??? - MemeStarAlbert
+Clark - LaurentLacroix
+Lerne - LaurentLacroix
+Generic Soldier (Unknown Army), Gauvain - Nuramon
+Santo - RandomWizard
+Drin - LaurentLacroix
+Larry - Yasako
+Kishuna (FE8 Colors) - Eldritch Abomination
+Fell Elyes - RandomWizard
+Duke Pers - LaurentLacroix
+Reeve Alesia - Zeldacrafter
+Vicar Ernald - Nickt
+Borveg - LaurentLacroix
+Onerine, Vilihame, Gerald - Sphealnuke
+Generic Dark Mage - AmBrosiac
+Désirée - Kanna
+Gavriil - Goldblitzx
+Donnet - Melia, RandomWizard
+Anna - Melia
+Morph Jaffar - Wasdye
+Leygance - BatimaTheBat
+Nageva - Cravat
+
+Army Generic Minimug (FE10) - Seal
+
+
+### Miscellaneous & Skills
+
+Battle Frames : All credits go to the FE6 Project Ember creators.
+Status Screen - Fenreir
+
+Map Ch11 Upper Part, Ch16R - Aura Wolf
+Map Ch16C - Alusq
+Map Ch25, Ch28 - Armory
+War Immunity, Boundless Love Icons: Jeorge Reds
+
+Crusader Scrolls System - Commission by Scraiza
+
+Pavise, Great Shield, Aether, Ignis - Mikey_Seregon
+Sun (Colossus), Falling Star (Sure Shot) - SHYUTERz
+Astra, Adept, Sol - Mariode
+Petrify - Windsweep
+
+### Class Cards
+Axe Cavalier (M) - Leo_Link
+Axe Cavalier (F) / Lance Cavalier (F) / All Female Paladins / Lance Paladin (M) / Sword Paladin (M) - RobertFPY, flasuban
+Lance Cavalier (U), Sword Cavalier (U) - SALVAGED
+Sword Cavalier (F) / Ranger (F) / Sniper (M) / Light Mage (F) - RobertFPY
+Axe Paladin (M) - Shtic, SALVAGED
+Archer (M) / Pirate (M) - Der
+Archer (F) / Myrmidon (F) / Swordmaster (F) / Thief (F) / Sage (F) / Mage Knight (F) / Bishop (F) / Druid (F) - L95
+Sniper (F) - flasuban, L95
+Ballistician (U) - Aruka, Yggdra
+Soldier (M, F) / Fighter (M) / Wyvern Rider (F) / Wyvern Lord (M) / Mage Armor / Sword Pegasus - flasuban
+Halberdier - TBA
+Mercenary (M) - Rasdel
+Hero (M) - IS, SamirPlayz
+Hero (F) - RobertFPY, SamirPlayz
+Myrmidon (M) - SamirPlayz
+Warrior (F) - Jj09
+Warrior (M) - Rasdel, Jey the Count
+All Armors - SALVAGED
+Baron / Sword General - Pushwall, SamirPlayz
+Axe General - Topazlight,SamirPlayz, Flasuban
+Lance General - Topazlight,SamirPlayz
+Mercenary (F) - Uncredited
+Assassin (M) - Leif, Scraiza, Sword of HaE
+Assassin (F) - Pushwall, L95
+Wyvern Lord (F) - Flasuban, Max Limit
+Wyvern Rider (M) - topazlight
+Mage (M) - Jj09, SamirPlayz, IS
+Mage (F) - Leif
+Shaman (F) - VelvetKitsune, Pushwall, RobertFPY, Uncredited
+Druid (M) - CamusZekeSirius
+Fighter (F) - Pikmin, flasuban
+Pirate (F) - HyperGammaSpaces
+Berserker (F) - ZoramineFae, Der
+Light Mage (M) - GratedShtick
+Halberdiers - TBA
+
+### Map Sprites
+
+Celindra - (F) Hector Axe - Shin19
+Celindra - Bulwark Lord - SD9K
+Melchior - Spartan (M) / Archers / Pirates - Der
+Baron - REALxViPerZ
+Lance Armor / Wyvern Rider / Rogue (F) - Unknown
+Sword, Axe Armor - Agro
+Bow Armor - Agro, SALVAGED
+Mage Armor / Sword Falcon - Flasuban
+Cavaliers (Sword, Lance, Axe) - SALVAGED
+Axe Paladin - RobertFPY, MeteorSR23
+Paladin U (Sword Paladin) - RobertFPY, MeteorSR23
+Paladin M - Pikmin
+Onomancer - Leif
+Female Summoners - VelvetKitsune
+Sword Pegasus - Sephie, Cornontherob
+Trueblade - FE7if
+Baron - Unknown
+Druid - Rasdel
+Mages - Ash3wl, L95, Dominus_Vobiscum
+Lost - CanDy
+Fighters - Alusq
+Ballisticians - Pushwall
+Long Ballisticians - Aruka, Kenpuhu
+Mage / Divine / Ice / Earth Dragons - L95
+Fire Dragons - Kemui52
+Mercenary (F) - Agro
+Sword General - Norikins
+Axe General - Blademaster
+Hero, Archer, Sniper, Thief, Myrmidon, Swordmaster, Sage (U) - CelestiaHeart
+Shaman - Ash3wl, L95
+Umbral Scholar - Unknown
+Cleric - topazlight
+Bishop - Permafrost
+Arcane Scholar - HyperGammaSpace, Jono, Reskin by 7743
+Halberdiers - TBA
+Swordmaster (Fallen) - SaintRubenio
+
+### Battle Animations
+
+Celindra / Ephraim F + Weapons - Base IS ; DerTheVaporeon, Pikmin1211, ZoramineFae (Sword/Staff) → Fixed Staff : Permafrost
+Reinfred / FE15 Style Myrmidon / Wyvern Lord / Tristan Battle Anims / Hero (M/F) Animations / Soldier / Mage Armor / Albree's Anims / Spear Champion - Nuramon
+Thieves / Roy Anims (Great Lord) - Pikmin
+Cavaliers & Paladins - SALVAGED
+Ashley (Nino Light Mage) - Mikey Séregon
+Generals - Leo_link, Nuramon, Iscaneus, The_Big_Dededester, Sax Marine, DerTheVaporeon
+Pegasus Knight - OreoStyx, MK404, MakeFEGayer
+Trueblade - Redbean, Jj09
+Custom Shaman (???) - StreamingTofu
+Fighter (M) / Bulwark Lord - Leo_Link
+Fighter (F) - Pikmin
+Pirates - Der
+Ballisticians - Spun
+Long Ballisticians - Seal
+Swordmaster Mia / Custom Sophia / Archsage Lilina / Elia's Anims - Redbean
+Lumine Battle Animations (Louise) - Greentea
+Halberdier (M) - TBA
+Halberdier (F) → Aureli's unique animation - Black Mage
+Male Thief - GabrielKnight
+Wyvern Rider Axe/Handaxe - Mikey Seregon, Alfred Kamon
+Female Mercenary (Lorelei) - TheBlindArcher, Knabepicer
+Cath Animations - Redbean, RiriK
+Guinivere Animations - Aruka
+Berserker F / Nomad - Repal
+Necromancer (Umbral Scholar) - Tythebub
+Divine Watcher (Matriarch) / Arcane Scholar - MrNight48
+Light Mage (F) - Teraspark
+Lost Marshall - St Jack
+Female Light Mage - Eldritch
+Clerics - FEier
+Nandil Animations - Ishtar by L95
+Female Assassin - Keks_Krebs, Beccarte, SD9K
+Soldier F - Alusq
+Warrior F - Temp
+
+### Spell Animations
+Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation / Arclight - Mikey Seregon
+Arcfire - Seal
+Ragnarök - Seal, SacredWar
+Arcunda - St jack, FF5
+Nightmaria - Unknown (found way back on the repo, tell me if you know!)
+Nova / Munio - Scraiza
+Astral Somnium / Shroud - SHYUTERz
+Thoron - Arch
+Tome of Order - Aircalibur rip (Arch, Blazer)
+Corruption - Orihara_Saki
+Lycia's Future - SHYUTERz, HIROTO
+
+### Items
+
+Silver Sword / Fiery Sword / Steel / Silver Blade / Killing Edge / Brave Lance / Silver Axe / Timeless Axe / Short Bow / Recover / Restore / Warp / Eclipse / Lumine's Bolt / Iron / Steel / Silver Greatlance / Arcwind / Arcfire / Wing Lance / Etherbane Edge / Keepsake Blade / Immolation / Corruption / Supreme Sword / Supreme Lance / Eftirlit - LordGlenn
+Iron Sword / Master Lance / Master Axe / Master Bow / Light Brand / Killer Lance / Ridersbane / Axereaver / Elfire / Jormungand / Bolt Axe / Flame Sword / Dark Seal / Scorching Crown / Blazing Honor / Crossbow / Piercer / Abyssal Bow / Longsword - Batima
+Steel / Slim Sword / Iron Lance / Iron Axe / Steel Bow / Nosferatu / Thoron / Wing Clipper / Spirit Dust / Shroud / Fire Breath - Celice
+Iron Blade / Halberd / Hand Axe / Silence / Sleep / Berserk / Torch / Hammerne / Unlock / Fenrir / Nightmaria / Ostian Arm - Zane
+Rapier / Divine / Nova - Peerless
+Brave Sword / Silver Lance / Swordreaver / Hammer / Iron Bow / Fimbulvetr / Light / Longbow / Heal / Mend / Physic / Flux / Dusk Katti / Unda / Elunda / Arcunda / Steel Longbow / Wing Blade / Rusted Rapier / Hand of Justice / Cutlass / Supreme Axe / Butcher / Partisan / Faelireiva- Ereshkigal
+Armorslayer / Tornado - Artists Unknown
+Wyrmslayer / Runesword / Tomahawk / Aura / Concoction / Elixir / Thanatos / Empower - Zarg
+Lancereaver / Javelin / Blazewing / Fire / Shine / Fortify / Rescue / Barrier / Luna / Aenir's Fang / Perdition / Arch Bow / Upkeep Oil Phial / Radiant Bow - Seal
+Slim / Steel Axe / Swordslayer - Beansy
+Zanbato / Steel Lance / Killer / Silver Ballista / Meteor / Rusted Wolf Beil / Rusted Mani Katti / Dagger / Bolganone / M. Thief's Vow - Batima
+Sleep Edge / Master Sword / Crusader (Legends) Scrolls / Iron Ballista / Paragon Sword - Lisandra Brave
+Brave Axe - 2WB
+Killer Axe / Wind / Elwind - Jubby
+Thunder / Elthunder / Arcthunder / Bolting / Fell Sanctus - Snakey1
+Vulnerary / Arclight - CardCafe
+Spear - CamTech075
+Killer Bow / Brave Bow / Skill Scroll / Four Leaf Clover / Killer Longbow / Precious Stone / Starfall / Greatbow - GabrielKnight
+Abyssus Iudicium / Silver Longbow / Skyripper - LordGlenn
+Silver Bow / Door/Chest Key / Platine Card / Levin Sword / Supreme Bow / Pike / Pommel Lance / Francisca - Zelix
+Steel / Silver Ballista / Delphi Shield - Vanilla + Blitz
+Iron / Steel / Silver Poleaxe - lovemachine
+Astral Somnium / Magestone - Beansy
+Meteor - Blazer, Jubby
+Blizzard / Custos Vocatio - CamTech075
+Hugo's Blueprint - SmithyGCN, Zarg, Soul Blazer
+Kingmaker - Jay109
+Durandal - SacredStones
+One True Solar / Resentment - Seal, SacredWar
+Steady Bulwark - EldritchA, Indogutsu Tenbuki
+Tome of Order - Valak
+Ashley's Clip - Maxim
+Fire Emblem - UltraFenix
+Aliénor - SacredStones
+Lycia's Future - N426
+Greatsword / Munio - Kyrads
+Warhammer / Purge - FuriousHaunter
+Wo Dao - SN_Ivan
+
+### Music
+
+NieR Automata ~ Shadowlord's Castle - Mycahel
+
+Knights in the Nightmare ~ Maria Sortie! / Knights in the Nightmare - Battle in the Abandoned Church / 
+Valkyrie Profile - The Unfinished Battle with God Syndrome / Star Ocean - Tense Atmosphere - SaXor the Nobody
+
+FE14 | Thorn in You / FE15 | Truth - MysteriousDancer
+FE12 | Off to War / FE4 | From Foe to Friend, Conversation 1 - RSFlame
+FE5 | Destiny (Fate) / Army A & B / Victory - Dolkar
+
+Langrisser: Shop / Pokemon MD Rescue Team: Mount Thunder / Treasure of the Hudras Battle Theme 
+FF4 Red Wings / PMD Explorers of Sky: Steam Cave / PMD Explorers Northern Desert - RandomWizard
+
+Pokemon Black, White - Embracing One's Duty - Thegis
+Castlevania Order of Ecclesia: Lament To The Master / Castlevania II Simon's Quest: Bloody Tears / FE11 Footsteps of Fate / FE15 Twilight of the Gods /
+At the Bottom of Night - Sme
+FFT Decisive Battle - Alusq
+FFTA Pub Theme / FF5 Nostalgia - A Reliable Chair
+Castlevania Order of Ecclesia - Chapel Hidden in Smoke ; An Empty Tome Stage ; Stones Hold a Grudge ; Sorrow's Distortion / PMD EoS Power of Darkness / FF5 Sealed Away / 
+Valkyrie Profile: Oblivion's Joy - Psyche
+FF13 | Desperate Struggle / NieR Automata: Dark Colossus Destroys All - Mycahel
+F-Zero GP: Lightning - Pandan
+Rudrano Hihou: Strange Encounters - DerTheVaporeon
+FE12 Vs. Hardin / FE16 Indomitable Will, Paths That Will Never Cross - Azula
+FE4: Army of Grannvale 1/2 / Emperor Arvis - SurfingKyogre
+Faraway Voyage of 380.000 Kilometers - ZoraminaeFae
+FE4: When the Rush Comes - MrGreen3339
+Pokemon MD Explorers of Time+Space+Sky: Dialga's Fight to the Finish - GratedShtick
+FE7 Going My Way / FE7 Distant Utopia - Raulster
+Shenmue: Nightfall, Shenhua, Land of Eternity - Pandan
+Pokemon Ranger Guardian Signs: Legendary Pokemon - Uncredited on the repository
+FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage - HunterAurzo
+SaGa Frontier II: Feldschlact III - SaXor the Nobody
+Castlevania DoS Cursed Clock Tower, The Pinnacle / Pokemon Mystery Dungeon Explorers of Sky - Time Gear / TrikkiNikki
+Crimson Ridge - nyawenyye
+FE5 Defeat is Near - Haiboku Chikashi
+Golden Sun Saturos Battle - Tristan Hollow
+Street Fighter 2 Ken's Theme - Scraiza
+Guilty Gear X Advance: Venom's Theme - MeatofJustice
+
+Plok Boss / SMT 3 Nocturne: Big Map / Guilty Gear X2: Good Manners and Customs / Super R Type: Return of the Creature / Lagoon: Desperate Dreams /
+Kingdom Hearts II: Sinister Shadows / Super Robot Wars: Arrow of Destiny / TRS: Knights of Razelia / Digital Devil Saga 2: Divine Identity /
+Guilty Gear X2: The Midnight Carnival / Demon's Crest: Memorial of the Fallen Ones / Final Fantasy MQ: Dungeon & Waterfall / Star Fox Command: Heroes of Old /
+Castlevania OoE Somnus Reef / FTL Civil Battle / Mobile Suit Gandam SEED - Invoke / Axelay - Silence / Berwick Saga - Fight to the Death - Scraiza (Souls of the Forest)
+
+Undertale: CORE - Leche (Bells of Byelen)
+
+Wyverns Descend - Treatstar
+
+### Patches
+
+NarrowFont - Scraiza
+TutorialDisabler - 7743
+Difficulty Select Skip - StanH Port:7743
+Limit Weapon Rank Display - jjl2357, Blademaster, Hextator, Tequila
+Magic Axe - Midori Patch / Partial reorganization 7743.
+Melee & Magic - Hextator,Tequila,7743
+Convert Chapter Names to Text - circleseverywhere,7743
+Sound Room 100% unlocked - 7743
+MultiTileMarker - 7743
+Green Units' Third Army - 7743
+Prevent uncounterable items from becoming forced range animations - vennou
+
+SkillSystems -
+Circleseverywhere
+Monkeybard & Black Mage for most of the skill icons; Blaze for Stances skill icons
+Tequila, Rossendale, StanH, Leonarth, Teraspark, sd9k, Kao, blademaster, Snakey1 for skills
+Primefusion for the test map
+
+

@@ -1,0 +1,14 @@
+SkillIcons=$B61A78
+ASMC_Draw=$B42B74
+DragonVeinsIcon_Unit67Graphic=$B33C68
+RTextLoop=$B60D8C
+SkillDescGetter=$B60B3C
+SkillTester=$B60924
+portrait_0x01_face_Graphic=$B6D0DC
+portrait_0x01_mouth_Graphic=$B6E0E0
+portrait_0x01_pal_Graphic=$B6E6E0
+portrait_0x01_minimug_Graphic=$B6E700
+GetDebuffs=$B3DC38
+Drop=$54
+GOTO_R5=$BE
+Return=$AA
