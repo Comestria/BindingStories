@@ -1,9 +1,9 @@
 //////////////
 
-Please note that most non-patch assets made by Scraiza are either commissions or music taken from the Souls of the Forest hack, something he agreed on.
+Please note that most non-patch assets made by Scraiza are either commissions or music taken from the Souls of the Forest hack, with, of course, his authorization.
 All assets here are F2U assets found on Klokinator's GitHub repository, with some music being F2U tracks found on various FireEmblemUniverse hacking events, and are not found on the repo.
-Portraits (Celindra, Reinfred and Céleste) made by Scraiza, along with SotF music, can NOT be used without authorization. In any case, if you want an asset from this hack,
-you'll most probably find it on Klokinator's repository.
+Portraits credited as "Commission by Scraiza", along with SotF music, can NOT be used without authorization. In any case, if you want an asset from this hack,
+you'll most probably find it on Klokinator's repository. If it isn't there, then it's either on a Music Blitz for a track, or isn't F2U.
 Souls of the Forest music can be used with Scraiza's approval before it eventually gets to the repository, and I personally have no right to allow you to use these tracks.
 Portraits, specifically, will most probably never be shared, thus they probably won't ever be F2U or F2E.
 
@@ -123,8 +123,6 @@ Army Generic Minimug (FE10) - Seal
 
 ### Miscellaneous & Skills
 
-Battle Frames : All credits go to the FE6 Project Ember creators.
-Status Screen - Fenreir
 
 Map Ch11 Upper Part, Ch16R - Aura Wolf
 Map Ch16C - Alusq
@@ -366,7 +364,6 @@ Melee & Magic - Hextator,Tequila,7743
 Convert Chapter Names to Text - circleseverywhere,7743
 Sound Room 100% unlocked - 7743
 MultiTileMarker - 7743
-Green Units' Third Army - 7743
 Prevent uncounterable items from becoming forced range animations - vennou
 
 SkillSystems -
