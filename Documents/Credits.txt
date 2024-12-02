@@ -24,9 +24,11 @@ Rose - Commission by Scraiza
 Melchior - Commission by Scraiza
 Older Roy - Commission by Scraiza
 Older Lilina - Commission by Scraiza
+Older Cath - Commission by Scraiza
 Héloïse - Scraiza
 
-Vetrelmar - LaurentLacroix
+Vetrelmar - Slater
+
 Cecilia, Cath - RedBean
 Aline, Laurence - LaurentLacroix
 Branwyne - monk-han
@@ -250,7 +252,7 @@ Soldier F - Alusq
 Warrior F - Temp
 
 ### Spell Animations
-Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation / Arclight - Mikey Seregon
+Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation - Mikey Seregon
 Arcfire - Seal
 Ragnarök - Seal, SacredWar
 Arcunda - St jack, FF5
@@ -261,6 +263,7 @@ Thoron - Arch
 Tome of Order - Aircalibur rip (Arch, Blazer)
 Corruption - Orihara_Saki
 Lycia's Future - SHYUTERz, HIROTO
+Sagittae - HyperGammaGames
 
 ### Items
 
@@ -279,7 +282,7 @@ Sleep Edge / Master Sword / Crusader (Legends) Scrolls / Iron Ballista / Paragon
 Brave Axe - 2WB
 Killer Axe / Wind / Elwind - Jubby
 Thunder / Elthunder / Arcthunder / Bolting / Fell Sanctus - Snakey1
-Vulnerary / Arclight - CardCafe
+Vulnerary - CardCafe
 Spear - CamTech075
 Killer Bow / Brave Bow / Skill Scroll / Four Leaf Clover / Killer Longbow / Precious Stone / Starfall / Greatbow - GabrielKnight
 Abyssus Iudicium / Silver Longbow / Skyripper - LordGlenn
@@ -292,14 +295,14 @@ Blizzard / Custos Vocatio - CamTech075
 Hugo's Blueprint - SmithyGCN, Zarg, Soul Blazer
 Kingmaker - Jay109
 Durandal - SacredStones
-One True Solar / Resentment - Seal, SacredWar
+One True Solar / Resentment / Athenea - Seal, SacredWar
 Steady Bulwark - EldritchA, Indogutsu Tenbuki
 Tome of Order - Valak
 Ashley's Clip - Maxim
 Fire Emblem - UltraFenix
 Aliénor - SacredStones
 Lycia's Future - N426
-Greatsword / Munio - Kyrads
+Greatsword / Munio / Sagittae - Kyrads
 Warhammer / Purge - FuriousHaunter
 Wo Dao - SN_Ivan
 
