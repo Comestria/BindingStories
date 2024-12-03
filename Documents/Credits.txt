@@ -44,7 +44,7 @@ Lucie, Aria - Kanna
 Marine - Kanna
 Nick, Marvin - LaurentLacroix
 Erweln, Carlos, Alicia - MeatOfJustice
-Adrova, Adonis - XVI
+Adrova - XVI
 Rana, Lorelei - Parrhesia
 Brad - Keppler
 Linia - MeatOfJustice
@@ -93,6 +93,7 @@ Clarine - Redbean, Plant_Academy
 Batta - SaintRubenio
 Merlinus (Blinking) - Shin19
 Héloïse (Year 1023) - Kanna
+Jacob - GenericPretsel
 
 Dreyjan - Random Wizard
 Tarema, Lancelot - Matthieu
@@ -113,7 +114,7 @@ Borveg - LaurentLacroix
 Onerine, Vilihame, Gerald - Sphealnuke
 Generic Dark Mage - AmBrosiac
 Désirée - Kanna
-Gavriil - Goldblitzx
+David - Goldblitzx
 Donnet - Melia, RandomWizard
 Anna - Melia
 Morph Jaffar - Wasdye
@@ -180,7 +181,6 @@ Halberdiers - TBA
 Celindra - (F) Hector Axe - Shin19
 Celindra - Bulwark Lord - SD9K
 Melchior - Spartan (M) / Archers / Pirates - Der
-Baron - REALxViPerZ
 Lance Armor / Wyvern Rider / Rogue (F) - Unknown
 Sword, Axe Armor - Agro
 Bow Armor - Agro, SALVAGED
@@ -213,6 +213,7 @@ Bishop - Permafrost
 Arcane Scholar - HyperGammaSpace, Jono, Reskin by 7743
 Halberdiers - TBA
 Swordmaster (Fallen) - SaintRubenio
+Baron (King) - EN, L95, Pikmin, Der, Huichelaar
 
 ### Battle Animations
 
@@ -298,7 +299,7 @@ Durandal - SacredStones
 One True Solar / Resentment / Athenea - Seal, SacredWar
 Steady Bulwark - EldritchA, Indogutsu Tenbuki
 Tome of Order - Valak
-Ashley's Clip - Maxim
+Ashley's Clip / Nck. of Feelings - Maxim
 Fire Emblem - UltraFenix
 Aliénor - SacredStones
 Lycia's Future - N426
@@ -338,7 +339,7 @@ Pokemon MD Explorers of Time+Space+Sky: Dialga's Fight to the Finish - GratedSht
 FE7 Going My Way / FE7 Distant Utopia - Raulster
 Shenmue: Nightfall, Shenhua, Land of Eternity - Pandan
 Pokemon Ranger Guardian Signs: Legendary Pokemon - Uncredited on the repository
-FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage - HunterAurzo
+FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage / FE17 Fallen Petals - HunterAurzo
 SaGa Frontier II: Feldschlact III - SaXor the Nobody
 Castlevania DoS Cursed Clock Tower, The Pinnacle / Pokemon Mystery Dungeon Explorers of Sky - Time Gear / TrikkiNikki
 Crimson Ridge - nyawenyye
