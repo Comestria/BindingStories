@@ -28,6 +28,7 @@ Older Cath - Commission by Scraiza
 Héloïse - Scraiza
 
 Vetrelmar - Slater
+Forialven - Slater
 
 Cecilia, Cath - RedBean
 Aline, Laurence - LaurentLacroix
@@ -99,8 +100,7 @@ Dreyjan - Random Wizard
 Tarema, Lancelot - Matthieu
 Esmeralda - Kanna
 ??? - MemeStarAlbert
-Clark - LaurentLacroix
-Lerne - LaurentLacroix
+Clark, Lerne, Hendrik - LaurentLacroix
 Generic Soldier (Unknown Army), Gauvain - Nuramon
 Santo - RandomWizard
 Drin - LaurentLacroix
@@ -120,6 +120,8 @@ Anna - Melia
 Morph Jaffar - Wasdye
 Leygance - BatimaTheBat
 Nageva - Cravat
+Abigail - monk-han
+Albert - Der
 
 Army Generic Minimug (FE10) - Seal
 
@@ -347,6 +349,7 @@ FE5 Defeat is Near - Haiboku Chikashi
 Golden Sun Saturos Battle - Tristan Hollow
 Street Fighter 2 Ken's Theme - Scraiza
 Guilty Gear X Advance: Venom's Theme - MeatofJustice
+Revolution / Fallen Friend / Emergence - Runa
 
 Plok Boss / SMT 3 Nocturne: Big Map / Guilty Gear X2: Good Manners and Customs / Super R Type: Return of the Creature / Lagoon: Desperate Dreams /
 Kingdom Hearts II: Sinister Shadows / Super Robot Wars: Arrow of Destiny / TRS: Knights of Razelia / Digital Devil Saga 2: Divine Identity /
