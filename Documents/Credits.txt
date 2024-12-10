@@ -107,7 +107,6 @@ Drin - LaurentLacroix
 Larry - Yasako
 Kishuna (FE8 Colors) - Eldritch Abomination
 Fell Elyes - RandomWizard
-Duke Pers - LaurentLacroix
 Reeve Alesia - Zeldacrafter
 Vicar Ernald - Nickt
 Borveg - LaurentLacroix
@@ -253,6 +252,7 @@ Nandil Animations - Ishtar by L95
 Female Assassin - Keks_Krebs, Beccarte, SD9K
 Soldier F - Alusq
 Warrior F - Temp
+Exeutioner - Huichelaar, Konami
 
 ### Spell Animations
 Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation - Mikey Seregon
@@ -321,12 +321,12 @@ FE12 | Off to War / FE4 | From Foe to Friend, Conversation 1 - RSFlame
 FE5 | Destiny (Fate) / Army A & B / Victory - Dolkar
 
 Langrisser: Shop / Pokemon MD Rescue Team: Mount Thunder / Treasure of the Hudras Battle Theme 
-FF4 Red Wings / PMD Explorers of Sky: Steam Cave / PMD Explorers Northern Desert - RandomWizard
+PMD Explorers of Sky: Steam Cave / PMD Explorers Northern Desert - RandomWizard
 
 Pokemon Black, White - Embracing One's Duty - Thegis
 Castlevania Order of Ecclesia: Lament To The Master / Castlevania II Simon's Quest: Bloody Tears / FE11 Footsteps of Fate / FE15 Twilight of the Gods /
 At the Bottom of Night - Sme
-FFT Decisive Battle - Alusq
+FFT Decisive Battle / Ogre Battle 64 ~ Notice of Death - Alusq
 FFTA Pub Theme / FF5 Nostalgia - A Reliable Chair
 Castlevania Order of Ecclesia - Chapel Hidden in Smoke ; An Empty Tome Stage ; Stones Hold a Grudge ; Sorrow's Distortion / PMD EoS Power of Darkness / FF5 Sealed Away / 
 Valkyrie Profile: Oblivion's Joy - Psyche
