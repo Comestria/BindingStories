@@ -121,6 +121,7 @@ Leygance - BatimaTheBat
 Nageva - Cravat
 Abigail - monk-han
 Albert - Der
+Selavas - JiroPaiPai
 
 Army Generic Minimug (FE10) - Seal
 
@@ -215,6 +216,7 @@ Arcane Scholar - HyperGammaSpace, Jono, Reskin by 7743
 Halberdiers - TBA
 Swordmaster (Fallen) - SaintRubenio
 Baron (King) - EN, L95, Pikmin, Der, Huichelaar
+Executioner - Huichelaar, IS, Lexou
 
 ### Battle Animations
 
