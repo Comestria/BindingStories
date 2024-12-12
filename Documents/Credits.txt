@@ -374,6 +374,8 @@ Convert Chapter Names to Text - circleseverywhere,7743
 Sound Room 100% unlocked - 7743
 MultiTileMarker - 7743
 Prevent uncounterable items from becoming forced range animations - vennou
+Send unit's items on death - Contro
+Auto-repair weapons - Retina
 
 SkillSystems -
 Circleseverywhere
