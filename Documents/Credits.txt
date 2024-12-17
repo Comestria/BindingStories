@@ -136,7 +136,7 @@ War Immunity, Boundless Love Icons: Jeorge Reds
 
 Crusader Scrolls System - Commission by Scraiza
 
-Pavise, Great Shield, Aether, Ignis - Mikey_Seregon
+Pavise, Great Shield, Aether, Ignis, Impale - Mikey_Seregon
 Sun (Colossus), Falling Star (Sure Shot) - SHYUTERz
 Astra, Adept, Sol - Mariode
 Petrify - Windsweep
@@ -217,6 +217,7 @@ Halberdiers - TBA
 Swordmaster (Fallen) - SaintRubenio
 Baron (King) - EN, L95, Pikmin, Der, Huichelaar
 Executioner - Huichelaar, IS, Lexou
+Ghost - Eldritch Animation
 
 ### Battle Animations
 
@@ -249,6 +250,7 @@ Divine Watcher (Matriarch) / Arcane Scholar - MrNight48
 Light Mage (F) - Teraspark
 Lost Marshall - St Jack
 Female Light Mage - Eldritch
+Ghost - Eldritch Abomination
 Clerics - FEier
 Nandil Animations - Ishtar by L95
 Female Assassin - Keks_Krebs, Beccarte, SD9K
@@ -291,7 +293,7 @@ Vulnerary - CardCafe
 Spear - CamTech075
 Killer Bow / Brave Bow / Skill Scroll / Four Leaf Clover / Killer Longbow / Precious Stone / Starfall / Greatbow - GabrielKnight
 Abyssus Iudicium / Silver Longbow / Skyripper - LordGlenn
-Silver Bow / Door/Chest Key / Platine Card / Levin Sword / Supreme Bow / Pike / Pommel Lance / Francisca - Zelix
+Silver Bow / Door/Chest Key / Platine Card / Levin Sword / Supreme Bow / Pike / Pommel Lance / Francisca / Binding Stories - Zelix
 Steel / Silver Ballista / Delphi Shield - Vanilla + Blitz
 Iron / Steel / Silver Poleaxe - lovemachine
 Astral Somnium / Magestone - Beansy
@@ -325,10 +327,10 @@ FE5 | Destiny (Fate) / Army A & B / Victory - Dolkar
 Langrisser: Shop / Pokemon MD Rescue Team: Mount Thunder / Treasure of the Hudras Battle Theme 
 PMD Explorers of Sky: Steam Cave / PMD Explorers Northern Desert - RandomWizard
 
-Pokemon Black, White - Embracing One's Duty - Thegis
+Pokemon Black, White: Embracing One's Duty / EO3 The First Campaign - Thegis
 Castlevania Order of Ecclesia: Lament To The Master / Castlevania II Simon's Quest: Bloody Tears / FE15 Twilight of the Gods /
 At the Bottom of Night - Sme
-FFT Decisive Battle / Ogre Battle 64: Notice of Death / Ogre Battle PS1: Thunder / Etrian Odyssey 2: Heaven's Rock Seat - Alusq
+FFT Decisive Battle / Ogre Battle 64: Notice of Death / Ogre Battle PS1: Thunder / Etrian Odyssey 2: Heaven's Rock Seat, Forbidden Forest / Egbert - Alusq
 FFTA Pub Theme / FF5 Nostalgia - A Reliable Chair
 Castlevania Order of Ecclesia - Chapel Hidden in Smoke ; An Empty Tome Stage ; Stones Hold a Grudge ; Sorrow's Distortion / PMD EoS Power of Darkness / FF5 Sealed Away / 
 Valkyrie Profile: Oblivion's Joy - Psyche
@@ -351,7 +353,9 @@ FE5 Defeat is Near - Haiboku Chikashi
 Golden Sun Saturos Battle - Tristan Hollow
 Street Fighter 2 Ken's Theme - Scraiza
 Guilty Gear X Advance: Venom's Theme - MeatofJustice
-Revolution / Fallen Friend / Emergence - Runa
+Revolution / Fallen Friend / Emergence / Anima Chant - Runa
+Romancing Saga 3: Vanguard Start - 7743
+Yggdra Union We'll Never Fight Alone: Durant Sortie! - SaXor the Nobody
 
 Plok Boss / SMT 3 Nocturne: Big Map / Guilty Gear X2: Good Manners and Customs / Super R Type: Return of the Creature / Lagoon: Desperate Dreams /
 Kingdom Hearts II: Sinister Shadows / Super Robot Wars: Arrow of Destiny / TRS: Knights of Razelia / Digital Devil Saga 2: Divine Identity /
