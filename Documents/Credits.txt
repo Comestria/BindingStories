@@ -264,7 +264,7 @@ Arcfire - Seal
 Ragnarök - Seal, SacredWar
 Arcunda - St jack, FF5
 Nightmaria - Unknown (found way back on the repo, tell me if you know!)
-Nova / Munio - Scraiza
+Nova / Munio / Truthfire - Scraiza
 Astral Somnium / Shroud - SHYUTERz
 Thoron - Arch
 Tome of Order - Aircalibur rip (Arch, Blazer)
@@ -274,7 +274,7 @@ Sagittae - HyperGammaGames
 
 ### Items
 
-Silver Sword / Fiery Sword / Steel / Silver Blade / Killing Edge / Brave Lance / Silver Axe / Timeless Axe / Short Bow / Recover / Restore / Warp / Eclipse / Lumine's Bolt / Iron / Steel / Silver Greatlance / Arcwind / Arcfire / Wing Lance / Etherbane Edge / Keepsake Blade / Immolation / Corruption / Supreme Sword / Supreme Lance / Eftirlit - LordGlenn
+Silver Sword / Fiery Sword / Steel / Silver Blade / Killing Edge / Brave Lance / Silver Axe / Timeless Axe / Short Bow / Recover / Restore / Warp / Eclipse / Lumine's Bolt / Iron / Steel / Silver Greatlance / Arcwind / Arcfire / Wing Lance / Etherbane Edge / Keepsake Blade / Immolation / Corruption / Supreme Sword / Supreme Lance / Eftirlit / Truthfire - LordGlenn
 Iron Sword / Master Lance / Master Axe / Master Bow / Light Brand / Killer Lance / Ridersbane / Axereaver / Elfire / Jormungand / Bolt Axe / Flame Sword / Dark Seal / Scorching Crown / Blazing Honor / Crossbow / Piercer / Abyssal Bow / Longsword - Batima
 Steel / Slim Sword / Iron Lance / Iron Axe / Steel Bow / Nosferatu / Thoron / Wing Clipper / Spirit Dust / Shroud / Fire Breath - Celice
 Iron Blade / Halberd / Hand Axe / Silence / Sleep / Berserk / Torch / Hammerne / Unlock / Fenrir / Nightmaria / Ostian Arm - Zane
@@ -329,7 +329,7 @@ PMD Explorers of Sky: Steam Cave / PMD Explorers Northern Desert - RandomWizard
 
 Pokemon Black, White: Embracing One's Duty / EO3 The First Campaign - Thegis
 Castlevania Order of Ecclesia: Lament To The Master / Castlevania II Simon's Quest: Bloody Tears / FE15 Twilight of the Gods /
-At the Bottom of Night - Sme
+At the Bottom of Night / Romance of the Three Kingdoms IV - Field Battle - Sme
 FFT Decisive Battle / Ogre Battle 64: Notice of Death / Ogre Battle PS1: Thunder / Etrian Odyssey 2: Heaven's Rock Seat, Forbidden Forest / Egbert - Alusq
 FFTA Pub Theme / FF5 Nostalgia - A Reliable Chair
 Castlevania Order of Ecclesia - Chapel Hidden in Smoke ; An Empty Tome Stage ; Stones Hold a Grudge ; Sorrow's Distortion / PMD EoS Power of Darkness / FF5 Sealed Away / 
