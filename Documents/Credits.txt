@@ -332,7 +332,7 @@ Castlevania Order of Ecclesia: Lament To The Master / Castlevania II Simon's Que
 At the Bottom of Night / Romance of the Three Kingdoms IV - Field Battle - Sme
 FFT Decisive Battle / Ogre Battle 64: Notice of Death / Ogre Battle PS1: Thunder / Etrian Odyssey 2: Heaven's Rock Seat, Forbidden Forest / Egbert - Alusq
 FFTA Pub Theme / FF5 Nostalgia - A Reliable Chair
-Castlevania Order of Ecclesia - Chapel Hidden in Smoke ; An Empty Tome Stage ; Stones Hold a Grudge ; Sorrow's Distortion / PMD EoS Power of Darkness / FF5 Sealed Away / 
+Castlevania Order of Ecclesia - An Empty Tome Stage ; Stones Hold a Grudge ; Sorrow's Distortion / PMD EoS Power of Darkness / FF5 Sealed Away / 
 Valkyrie Profile: Oblivion's Joy - Psyche
 FF13 | Desperate Struggle / NieR Automata: Dark Colossus Destroys All - Mycahel
 F-Zero GP: Lightning - Pandan
@@ -353,7 +353,7 @@ FE5 Defeat is Near - Haiboku Chikashi
 Golden Sun Saturos Battle - Tristan Hollow
 Street Fighter 2 Ken's Theme - Scraiza
 Guilty Gear X Advance: Venom's Theme - MeatofJustice
-Revolution / Fallen Friend / Emergence / Anima Chant - Runa
+Revolution / Fallen Friend / Emergence / Anima Chant / Escape / Winter of the Sun and Moon - Runa
 Romancing Saga 3: Vanguard Start - 7743
 Yggdra Union We'll Never Fight Alone: Durant Sortie! - SaXor the Nobody
 
@@ -380,6 +380,8 @@ MultiTileMarker - 7743
 Prevent uncounterable items from becoming forced range animations - vennou
 Send unit's items on death - Contro
 Auto-repair weapons - Retina
+
+Remove Negative Stats on Weapons - ditto
 
 SkillSystems -
 Circleseverywhere
