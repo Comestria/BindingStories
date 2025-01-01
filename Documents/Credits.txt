@@ -30,6 +30,7 @@ Héloïse - Scraiza
 Vetrelmar - Slater
 Forialven - Slater
 Young Reinfred, Celindra & Ashley - Slater
+Aurore - Slater
 
 Cecilia, Cath - RedBean
 Aline, Laurence - LaurentLacroix
@@ -40,10 +41,8 @@ Tristan - LaurentLacroix
 Rolph - LaurentLacroix
 Ashildr - LaurentLacroix
 Mervick - Sphealnuke
-Lumine, Celtinia, Ismena - Kanna
+Lumine, Celtinia, Ismena, Lily, Marine, Lucie, Aria, Reine - Kanna
 Sarin, Carl, Leinvein - Levin64
-Lucie, Aria - Kanna
-Marine - Kanna
 Nick, Marvin - LaurentLacroix
 Erweln, Carlos, Alicia - MeatOfJustice
 Adrova - XVI
@@ -72,17 +71,14 @@ Jenny - It's Just Jay
 Umbra - Zwelix
 Oswald - MegaCowsamMan
 Eyris - Zeldacrafter
+David - Goldblitzx
 Eiran, Morgane - Mexicancactus2911
-Lily - Kanna
 Charlie - LaurentLacroix
 Gerth - MegaCowsamMan
-Connyn - Goldblitzx
 Guinivere, Klein - Plant_Academy
 Elceer - SirNicee
-Archéa - Lenh
 Améline - Kon
 Pearl - Der
-Reine - Kanna
 Liam - Peerless
 Sheryl - LaurentLacroix
 Sheiro - SaintRubenio
@@ -93,12 +89,11 @@ Jan - topazlight
 Bors - UltraFenix
 Clarine - Redbean, Plant_Academy
 Batta - SaintRubenio
-Héloïse (Year 1023) - Kanna
 Jacob - GenericPretsel
 
 Dreyjan - Random Wizard
 Tarema, Lancelot - Matthieu
-Esmeralda - Kanna
+Esmeralda, Edolina, Désirée - Kanna
 ??? - MemeStarAlbert
 Clark, Lerne, Hendrik - LaurentLacroix
 Generic Soldier (Unknown Army), Gauvain - Nuramon
@@ -106,14 +101,11 @@ Santo - RandomWizard
 Drin - LaurentLacroix
 Larry - Yasako
 Kishuna (FE8 Colors) - Eldritch Abomination
-Fell Elyes - RandomWizard
-Reeve Alesia - Zeldacrafter
-Vicar Ernald - Nickt
+Elyes - RandomWizard
+Alesia - Zeldacrafter
 Borveg - LaurentLacroix
 Onerine, Vilihame, Gerald - Sphealnuke
 Generic Dark Mage - AmBrosiac
-Désirée - Kanna
-David - Goldblitzx
 Donnet - Melia, RandomWizard
 Anna - Melia
 Morph Jaffar - Wasdye
@@ -132,7 +124,7 @@ Army Generic Minimug (FE10) - Seal
 Map Ch11 Upper Part, Ch16R - Aura Wolf
 Map Ch16C - Alusq
 Map Ch25, Ch28 - Armory
-War Immunity, Boundless Love Icons: Jeorge Reds
+War Immunity, Boundless Love, Sorcery Icons - Jeorge Reds
 
 Crusader Scrolls System - Commission by Scraiza
 
@@ -285,7 +277,7 @@ Wyrmslayer / Runesword / Tomahawk / Aura / Concoction / Elixir / Thanatos / Empo
 Lancereaver / Javelin / Blazewing / Fire / Shine / Fortify / Rescue / Barrier / Luna / Aenir's Fang / Perdition / Arch Bow / Upkeep Oil Phial / Radiant Bow - Seal
 Slim / Steel Axe / Swordslayer - Beansy
 Zanbato / Steel Lance / Killer / Silver Ballista / Meteor / Rusted Wolf Beil / Rusted Mani Katti / Dagger / Bolganone / M. Thief's Vow - Batima
-Sleep Edge / Master Sword / Crusader (Legends) Scrolls / Iron Ballista / Paragon Sword - Lisandra Brave
+Sleep Edge / Master Sword / Crusader (Legends) Scrolls / Iron Ballista / Paragon Sword / Myrkvi - Lisandra Brave
 Brave Axe - 2WB
 Killer Axe / Wind / Elwind - Jubby
 Thunder / Elthunder / Arcthunder / Bolting / Fell Sanctus - Snakey1
@@ -381,7 +373,7 @@ Prevent uncounterable items from becoming forced range animations - vennou
 Send unit's items on death - Contro
 Auto-repair weapons - Retina
 
-Remove Negative Stats on Weapons - ditto
+Remove Negative Stats on Weapons, KillSealSkills, AuroreSupportGains, NecklaceOfFeelings, AircaliburFix - ditto
 
 SkillSystems -
 Circleseverywhere
