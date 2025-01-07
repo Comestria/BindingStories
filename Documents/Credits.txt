@@ -330,11 +330,10 @@ FF13 | Desperate Struggle / NieR Automata: Dark Colossus Destroys All - Mycahel
 F-Zero GP: Lightning - Pandan
 Rudrano Hihou: Strange Encounters - DerTheVaporeon
 FE12 Vs. Hardin / FE16 Indomitable Will, Paths That Will Never Cross - Azula
-FE4: Army of Grannvale 1/2 / Emperor Arvis - SurfingKyogre
+FE4: Emperor Arvis - SurfingKyogre
 Faraway Voyage of 380.000 Kilometers - ZoraminaeFae
 FE4: When the Rush Comes - MrGreen3339
 Pokemon MD Explorers of Time+Space+Sky: Dialga's Fight to the Finish - GratedShtick
-FE7 Going My Way / FE7 Distant Utopia - Raulster
 Shenmue: Nightfall, Shenhua, Land of Eternity - Pandan
 Pokemon Ranger Guardian Signs: Legendary Pokemon - Uncredited on the repository
 FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage / FE17 Fallen Petals - HunterAurzo
@@ -373,7 +372,7 @@ Prevent uncounterable items from becoming forced range animations - vennou
 Send unit's items on death - Contro
 Auto-repair weapons - Retina
 
-Remove Negative Stats on Weapons, KillSealSkills, AuroreSupportGains, NecklaceOfFeelings, AircaliburFix - ditto
+Remove Negative Stats on Weapons, KillSealSkills, AuroreSupportGains, NecklaceOfFeelings, AircaliburFix, Canto+ Fix, Provoke Fix - ditto
 
 SkillSystems -
 Circleseverywhere
