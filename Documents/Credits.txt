@@ -235,7 +235,7 @@ Halberdier (F) → Aureli's unique animation - Black Mage
 Male Thief - GabrielKnight
 Wyvern Rider Axe/Handaxe - Mikey Seregon, Alfred Kamon
 Female Mercenary (Lorelei) - TheBlindArcher, Knabepicer
-Cath Animations - Redbean, RiriK
+Cath Animations - Redbean
 Guinivere Animations - Aruka
 Berserker F / Nomad - Repal
 Necromancer (Umbral Scholar) - Tythebub
