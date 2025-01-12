@@ -32,6 +32,8 @@ Vetrelmar - Slater
 Forialven - Slater
 Young Reinfred, Celindra & Ashley - Slater
 Aurore - Slater
+Pearl - Slater
+Désirée - Slater
 
 Cecilia, Cath - RedBean
 Aline, Laurence - LaurentLacroix
@@ -79,7 +81,6 @@ Gerth - MegaCowsamMan
 Guinivere, Klein - Plant_Academy
 Elceer - SirNicee
 Améline - Kon
-Pearl - Der
 Liam - Peerless
 Sheryl - LaurentLacroix
 Sheiro - SaintRubenio
@@ -94,7 +95,7 @@ Jacob - GenericPretsel
 
 Dreyjan - Random Wizard
 Tarema, Lancelot - Matthieu
-Esmeralda, Edolina, Désirée - Kanna
+Esmeralda, Edolina - Kanna
 ??? - MemeStarAlbert
 Clark, Lerne, Hendrik - LaurentLacroix
 Generic Soldier (Unknown Army), Gauvain - Nuramon
