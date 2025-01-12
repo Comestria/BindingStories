@@ -317,8 +317,7 @@ FE14 | Thorn in You / FE15 | Truth - MysteriousDancer
 FE12 | Off to War / FE4 | From Foe to Friend, Conversation 1 - RSFlame
 FE5 | Destiny (Fate) / Army A & B / Victory - Dolkar
 
-Langrisser: Shop / Pokemon MD Rescue Team: Mount Thunder / Treasure of the Hudras Battle Theme 
-PMD Explorers of Sky: Steam Cave / PMD Explorers Northern Desert - RandomWizard
+Langrisser: Shop / Pokemon MD Rescue Team: Mount Thunder PMD Explorers of Sky: Steam Cave / PMD Explorers Northern Desert - RandomWizard
 
 Pokemon Black, White: Embracing One's Duty / EO3 The First Campaign - Thegis
 Castlevania Order of Ecclesia: Lament To The Master / Castlevania II Simon's Quest: Bloody Tears / FE15 Twilight of the Gods /
@@ -355,8 +354,8 @@ Guilty Gear X2: The Midnight Carnival / Demon's Crest: Memorial of the Fallen On
 Castlevania OoE Somnus Reef / FTL Civil Battle / Mobile Suit Gandam SEED - Invoke / Axelay - Silence / Berwick Saga - Fight to the Death - Scraiza (Souls of the Forest)
 
 Undertale: CORE - Leche (Bells of Byelen)
-
-Wyverns Descend - Treatstar
+Heroes of Mana: Why are We Without Hope... - devisio (Bells of Byelen)
+Treasure of the Hudras: Battle Theme - devisio, RandomWizard (Bells of Byelen)
 
 ### Patches
 
