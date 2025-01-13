@@ -195,7 +195,6 @@ Mages - Ash3wl, L95, Dominus_Vobiscum
 Lost - CanDy
 Fighters - Alusq
 Ballisticians - Pushwall
-Long Ballisticians - Aruka, Kenpuhu
 Mage / Divine / Ice / Earth Dragons - L95
 Fire Dragons - Kemui52
 Mercenary (F) - Agro
@@ -285,7 +284,7 @@ Killer Axe / Wind / Elwind - Jubby
 Thunder / Elthunder / Arcthunder / Bolting / Fell Sanctus - Snakey1
 Vulnerary - CardCafe
 Spear - CamTech075
-Killer Bow / Brave Bow / Skill Scroll / Four Leaf Clover / Killer Longbow / Precious Stone / Starfall / Greatbow - GabrielKnight
+Killer Bow / Brave Bow / Skill Scroll / Four Leaf Clover / Precious Stone / Starfall / Greatbow - GabrielKnight
 Abyssus Iudicium / Silver Longbow / Skyripper - LordGlenn
 Silver Bow / Door/Chest Key / Platine Card / Levin Sword / Supreme Bow / Pike / Pommel Lance / Francisca / Binding Stories - Zelix
 Steel / Silver Ballista / Delphi Shield - Vanilla + Blitz
