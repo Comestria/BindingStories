@@ -4,8 +4,6 @@ Please note that most non-patch assets made by Scraiza are either commissions or
 All assets here are F2U assets found on Klokinator's GitHub repository, with some music being F2U tracks found on various FireEmblemUniverse hacking events, and are not found on the repo.
 Portraits credited as "Commission by Scraiza", along with SotF music, can NOT be used without authorization. In any case, if you want an asset from this hack,
 you'll most probably find it on Klokinator's repository. If it isn't there, then it's either on a Music Blitz for a track, or isn't F2U.
-Souls of the Forest music can be used with Scraiza's approval before it eventually gets to the repository, and I personally have no right to allow you to use these tracks.
-Portraits, specifically, will most probably never be shared, thus they probably won't ever be F2U or F2E.
 
 //////////////
 
@@ -36,9 +34,8 @@ Pearl - Slater
 Désirée - Slater
 
 Cecilia, Cath - RedBean
-Aline, Laurence - LaurentLacroix
+Aline, Laurence, Xalvador, Sunilda, Frank, Eliot - LaurentLacroix
 Branwyne - monk-han
-Xalvador, Sunilda, Frank, Eliot - LaurentLacroix
 Albree - LaurentLacroix, Levin 64
 Tristan - LaurentLacroix
 Rolph - LaurentLacroix
