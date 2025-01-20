@@ -247,6 +247,7 @@ Female Assassin - Keks_Krebs, Beccarte, SD9K
 Soldier F - Alusq
 Warrior F - Temp
 Exeutioner - Huichelaar, Konami
+Rebecca Anims - Greentea
 
 ### Spell Animations
 Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation - Mikey Seregon
