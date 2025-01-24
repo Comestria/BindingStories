@@ -113,6 +113,7 @@ Nageva - Cravat
 Abigail - monk-han
 Albert - Der
 Selavas - JiroPaiPai
+Ruben - SaintRubenio
 
 Army Generic Minimug (FE10) - Seal
 
@@ -283,7 +284,7 @@ Thunder / Elthunder / Arcthunder / Bolting / Fell Sanctus - Snakey1
 Vulnerary - CardCafe
 Spear - CamTech075
 Killer Bow / Brave Bow / Skill Scroll / Four Leaf Clover / Precious Stone / Starfall / Greatbow - GabrielKnight
-Abyssus Iudicium / Silver Longbow / Skyripper - LordGlenn
+Abyssus Iudicium / Silver Longbow / Skyripper / Expert Grip - LordGlenn
 Silver Bow / Door/Chest Key / Platine Card / Levin Sword / Supreme Bow / Pike / Pommel Lance / Francisca / Binding Stories - Zelix
 Steel / Silver Ballista / Delphi Shield - Vanilla + Blitz
 Iron / Steel / Silver Poleaxe - lovemachine
@@ -293,7 +294,7 @@ Blizzard / Custos Vocatio - CamTech075
 Hugo's Blueprint - SmithyGCN, Zarg, Soul Blazer
 Kingmaker - Jay109
 Durandal - SacredStones
-One True Solar / Resentment / Athenea - Seal, SacredWar
+One True Solar / Resentment / Athenea / Crimson Curse - Seal, SacredWar
 Steady Bulwark - EldritchA, Indogutsu Tenbuki
 Tome of Order - Valak
 Ashley's Clip / Nck. of Feelings - Maxim
@@ -303,6 +304,7 @@ Lycia's Future - N426
 Greatsword / Munio / Sagittae - Kyrads
 Warhammer / Purge - FuriousHaunter
 Wo Dao - SN_Ivan
+Fiendish Robe - Dark
 
 ### Music
 
@@ -326,7 +328,7 @@ Castlevania Order of Ecclesia - An Empty Tome Stage ; Stones Hold a Grudge ; Sor
 Valkyrie Profile: Oblivion's Joy, Sublime Domain / Etrian Odyssey 3 Those Who Slay and Fall - Psyche
 FF13 | Desperate Struggle / NieR Automata: Dark Colossus Destroys All - Mycahel
 F-Zero GP: Lightning - Pandan
-Rudrano Hihou: Strange Encounters - DerTheVaporeon
+Rudrano Hihou: Strange Encounters / Renegade Level 2 - DerTheVaporeon
 FE12 Vs. Hardin / FE16 Indomitable Will, Paths That Will Never Cross - Azula
 FE4: Emperor Arvis - SurfingKyogre
 Faraway Voyage of 380.000 Kilometers - ZoraminaeFae
