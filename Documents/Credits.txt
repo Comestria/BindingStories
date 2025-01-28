@@ -33,6 +33,7 @@ Aurore - Slater
 Pearl - Slater
 Désirée - Slater
 Mevrick - Slater
+Ashildr, Felrindel, Celtinia, Cilicia - Slater
 
 Cecilia, Cath - RedBean
 Aline, Laurence, Xalvador, Sunilda, Frank, Eliot - LaurentLacroix
@@ -40,8 +41,7 @@ Branwyne - monk-han
 Albree - LaurentLacroix, Levin 64
 Tristan - LaurentLacroix
 Rolph - LaurentLacroix
-Ashildr - LaurentLacroix
-Lumine, Celtinia, Ismena, Lily, Marine, Lucie, Aria, Reine - Kanna
+Lumine, Ismena, Lily, Marine, Lucie, Aria, Reine - Kanna
 Sarin, Carl, Leinvein - Levin64
 Nick, Marvin - LaurentLacroix
 Erweln, Carlos, Alicia - MeatOfJustice
@@ -53,7 +53,7 @@ Torm - Lenh6
 Mona, Clara, Esarria - XVI
 Laurine - Raymond
 Leon, Ruby - Obsidian Daddy
-Felrindel, Dorein, Paul, Roswenn, Armin, Godefroy, Auguste, Simeon - Nickt
+Dorein, Paul, Roswenn, Armin, Godefroy, Simeon - Nickt
 Vincent - monk-han
 Maud, Gordil - CapibaraInSpace
 Lisa, Lierin - GhostBlade
@@ -347,6 +347,7 @@ Guilty Gear X Advance: Venom's Theme - MeatofJustice
 Revolution / Fallen Friend / Emergence / Anima Chant / Escape / Winter of the Sun and Moon - Runa
 Romancing Saga 3: Vanguard Start - 7743
 Yggdra Union We'll Never Fight Alone: Durant Sortie! - SaXor the Nobody
+LoZ Twilight Princess: Midna's Lament - MysteriousDancer
 
 Plok Boss / SMT 3 Nocturne: Big Map / Guilty Gear X2: Good Manners and Customs / Super R Type: Return of the Creature / Lagoon: Desperate Dreams /
 Kingdom Hearts II: Sinister Shadows / Super Robot Wars: Arrow of Destiny / TRS: Knights of Razelia / Digital Devil Saga 2: Divine Identity /
