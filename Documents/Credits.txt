@@ -372,6 +372,7 @@ MultiTileMarker - 7743
 Prevent uncounterable items from becoming forced range animations - vennou
 Send unit's items on death - Contro
 Auto-repair weapons - Retina
+Neutral Army - ultrax (Unable to cross greens) & ditto (Unable to attack or be attacked greens)
 
 Remove Negative Stats on Weapons, KillSealSkills, AuroreSupportGains, NecklaceOfFeelings, AircaliburFix, Canto+ Fix, Provoke Fix - ditto
 

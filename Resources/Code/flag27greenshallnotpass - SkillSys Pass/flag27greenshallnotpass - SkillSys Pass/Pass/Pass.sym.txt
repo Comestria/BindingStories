@@ -1,0 +1,7 @@
+PassID=$54
+SkillTester=$50
+GoBack=$38
+CheckPass=$24
+CheckFlag=$48
+GetCharData=$44
+GoBackAddress=$4C

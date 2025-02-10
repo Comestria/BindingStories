@@ -1,0 +1,7 @@
+ALIGN 4
+BindingStoriesItemID:
+BYTE 0xF9
+
+#include "BindingStoriesItem.lyn.event"
+PUSH; ORG 0xB82C10; POIN TheItemBindingStories|1; POP
+08B6A024 AuraSkillCheck@Skill_SkillSystems_20220527
