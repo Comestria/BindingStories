@@ -83,7 +83,6 @@ Liam - Peerless
 Sheryl - LaurentLacroix
 Sheiro - SaintRubenio
 Illescia - Shirex
-Eleanora - redlightning
 Rebecca - Spoon_Rhythm, Teelvade, UltraFenix
 Jan - topazlight
 Bors - UltraFenix
@@ -124,7 +123,7 @@ Army Generic Minimug (FE10) - Seal
 
 Map Ch11 Upper Part, Ch16R - Aura Wolf
 Map Ch16C - Alusq
-Map Ch25, Ch28 - Armory
+Map Ch25, Ch0 - ZoramineFae
 War Immunity, Boundless Love, Sorcery Icons - Jeorge Reds
 
 Crusader Scrolls System - Commission by Scraiza
@@ -298,18 +297,20 @@ Durandal - SacredStones
 One True Solar / Resentment / Athenea / Crimson Curse - Seal, SacredWar
 Steady Bulwark - EldritchA, Indogutsu Tenbuki
 Tome of Order - Valak
-Ashley's Clip / Nck. of Feelings - Maxim
+Necklace of Feelings - Maxim
 Fire Emblem - UltraFenix
 Aliénor - SacredStones
 Lycia's Future - N426
 Greatsword / Munio / Sagittae - Kyrads
 Warhammer / Purge - FuriousHaunter
 Wo Dao - SN_Ivan
-Fiendish Robe - Dark
+Grand Pavois - EldritchA, Indogutsu Tenbuki
+Shaded Bow - 2WB, Hanakko
 
 ### Music
 
-NieR Automata ~ Shadowlord's Castle // 100% Orange Juice: Suguri (46 Billion Years) (Commission) - Mycahel
+NieR Automata ~ Shadowlord's Castle / FF13 | Desperate Struggle / NieR Automata: Dark Colossus Destroys All / Monster Hunter Black Fatalis //
+100% Orange Juice: Suguri (46 Billion Years) (Commission) - Mycahel
 
 Knights in the Nightmare ~ Maria Sortie! / Knights in the Nightmare - Battle in the Abandoned Church / 
 Valkyrie Profile - The Unfinished Battle with God Syndrome / Star Ocean - Tense Atmosphere - SaXor the Nobody
@@ -320,24 +321,23 @@ FE5 | Destiny (Fate) / Army A & B / Victory - Dolkar
 
 Langrisser: Shop / Pokemon MD Rescue Team: Mount Thunder PMD Explorers of Sky: Steam Cave / PMD Explorers Northern Desert - RandomWizard
 
-Pokemon Black, White: Embracing One's Duty / EO3 The First Campaign - Thegis
+Pokemon Black, White: Embracing One's Duty / EO3 The First Campaign, Chalky Woods - Thegis
 Castlevania Order of Ecclesia: Lament To The Master / Castlevania II Simon's Quest: Bloody Tears / FE15 Twilight of the Gods /
 At the Bottom of Night / Romance of the Three Kingdoms IV - Field Battle - Sme
 FFT Decisive Battle / Ogre Battle 64: Notice of Death / Ogre Battle PS1: Thunder / Etrian Odyssey 2: Heaven's Rock Seat, Forbidden Forest / Egbert - Alusq
 FFTA Pub Theme / FF5 Nostalgia - A Reliable Chair
 Castlevania Order of Ecclesia - An Empty Tome Stage ; Stones Hold a Grudge ; Sorrow's Distortion / PMD EoS Power of Darkness / FF5 Sealed Away / 
 Valkyrie Profile: Oblivion's Joy, Sublime Domain / Etrian Odyssey 3 Those Who Slay and Fall - Psyche
-FF13 | Desperate Struggle / NieR Automata: Dark Colossus Destroys All - Mycahel
 F-Zero GP: Lightning - Pandan
 Rudrano Hihou: Strange Encounters / Renegade Level 2 - DerTheVaporeon
-FE12 Vs. Hardin / FE16 Indomitable Will, Paths That Will Never Cross - Azula
-FE4: Emperor Arvis, Neutral Army, Allied Army - SurfingKyogre
+FE12 Vs. Hardin / FE16 Paths That Will Never Cross - Azula
+FE4: Emperor Arvis, Neutral Army, Allied Army / Persona 3 FES Heartful Cry / M&L BIS The Grand Finale - SurfingKyogre
 Faraway Voyage of 380.000 Kilometers - ZoraminaeFae
-FE4: When the Rush Comes - MrGreen3339
+FE4: When the Rush Comes - DrGreen3339
 Pokemon MD Explorers of Time+Space+Sky: Dialga's Fight to the Finish - GratedShtick
 Shenmue: Nightfall, Shenhua, Land of Eternity - Pandan
 Pokemon Ranger Guardian Signs: Legendary Pokemon - Uncredited on the repository
-FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage / FE17 Fallen Petals - HunterAurzo
+FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage / FE17 Fallen Petals / FE6 Join Us! Remix - HunterAurzo
 SaGa Frontier II: Feldschlact III - SaXor the Nobody
 Castlevania DoS Cursed Clock Tower, The Pinnacle / Pokemon Mystery Dungeon Explorers of Sky - Time Gear / TrikkiNikki
 Crimson Ridge - nyawenyye
@@ -349,6 +349,8 @@ Revolution / Fallen Friend / Emergence / Anima Chant / Escape / Winter of the Su
 Romancing Saga 3: Vanguard Start - 7743
 Yggdra Union We'll Never Fight Alone: Durant Sortie! - SaXor the Nobody
 LoZ Twilight Princess: Midna's Lament - MysteriousDancer
+Zero Escape Morphogenetic Sorrow / Epic Battle Fantasy 5 Those of Us Who Blossom - Tak
+Riviera Heaven's Gate - Pimin 1211
 
 Plok Boss / SMT 3 Nocturne: Big Map / Guilty Gear X2: Good Manners and Customs / Super R Type: Return of the Creature / Lagoon: Desperate Dreams /
 Kingdom Hearts II: Sinister Shadows / Super Robot Wars: Arrow of Destiny / TRS: Knights of Razelia / Digital Devil Saga 2: Divine Identity /
