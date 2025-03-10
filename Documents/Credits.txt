@@ -35,6 +35,7 @@ Désirée - Slater
 Mevrick - Slater
 Ashildr, Felrindel, Celtinia, Cilicia - Slater
 Aldrina, Nailda - Slater
+Lorelei - Slater
 
 Cecilia, Cath - RedBean
 Aline, Laurence, Xalvador, Sunilda, Frank, Eliot - LaurentLacroix
@@ -47,7 +48,7 @@ Sarin, Carl, Leinvein - Levin64
 Nick, Marvin - LaurentLacroix
 Erweln, Carlos, Alicia - MeatOfJustice
 Adrova - XVI
-Rana, Lorelei - Parrhesia
+Rana - Parrhesia
 Brad - Keppler
 Linia - MeatOfJustice
 Torm - Lenh6
