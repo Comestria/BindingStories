@@ -36,6 +36,8 @@ Mevrick - Slater
 Ashildr, Felrindel, Celtinia, Cilicia - Slater
 Aldrina, Nailda - Slater
 Lorelei - Slater
+Alicianrone - Slater
+Lulu - Slater
 
 Cecilia, Cath - RedBean
 Aline, Laurence, Xalvador, Sunilda, Frank, Eliot - LaurentLacroix
@@ -126,6 +128,7 @@ Map Ch11 Upper Part, Ch16R - Aura Wolf
 Map Ch16C - Alusq
 Map Ch25, Ch0 - ZoramineFae
 War Immunity, Boundless Love, Sorcery Icons - Jeorge Reds
+Nightfall Icon - ZessDynamite, Rainlash
 
 Crusader Scrolls System - Commission by Scraiza
 
