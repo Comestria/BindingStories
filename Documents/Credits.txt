@@ -271,11 +271,11 @@ Sagittae - HyperGammaGames
 ### Items
 
 Silver Sword / Fiery Sword / Steel / Silver Blade / Killing Edge / Brave Lance / Silver Axe / Timeless Axe / Short Bow / Recover / Restore / Warp / Eclipse / Lumine's Bolt / Iron / Steel / Silver Greatlance / Arcwind / Arcfire / Wing Lance / Etherbane Edge / Keepsake Blade / Immolation / Corruption / Supreme Sword / Supreme Lance / Eftirlit / Truthfire - LordGlenn
-Iron Sword / Master Lance / Master Axe / Master Bow / Light Brand / Killer Lance / Ridersbane / Axereaver / Elfire / Jormungand / Bolt Axe / Flame Sword / Dark Seal / Scorching Crown / Blazing Honor / Crossbow / Piercer / Abyssal Bow / Longsword - Batima
-Steel / Slim Sword / Iron Lance / Iron Axe / Steel Bow / Nosferatu / Thoron / Wing Clipper / Spirit Dust / Shroud / Fire Breath - Celice
-Iron Blade / Halberd / Hand Axe / Silence / Sleep / Berserk / Torch / Hammerne / Unlock / Fenrir / Nightmaria / Ostian Arm - Zane
+Iron Sword / Master Lance / Master Axe / Master Bow / Light Brand / Killer Lance / Ridersbane / Axereaver / Elfire / Jormungand / Bolt Axe / Flame Sword / Dark Seal / Scorching Crown / Blazing Honor / Crossbow / Piercer / Abyssal Bow - Batima
+Steel / Slim Sword / Iron Lance / Iron Axe / Steel Bow / Nosferatu / Thoron / Wing Clipper / Spirit Dust / Shroud / Fire Breath / Driving Axe, Bow - Celice
+Iron Blade / Halberd / Hand Axe / Silence / Sleep / Berserk / Torch / Hammerne / Unlock / Fenrir / Nightmaria / Zane
 Rapier / Divine / Nova - Peerless
-Brave Sword / Silver Lance / Swordreaver / Hammer / Iron Bow / Fimbulvetr / Light / Longbow / Heal / Mend / Physic / Flux / Dusk Katti / Unda / Elunda / Arcunda / Steel Longbow / Wing Blade / Rusted Rapier / Hand of Justice / Cutlass / Supreme Axe / Butcher / Partisan / Faelireiva- Ereshkigal
+Brave Sword / Silver Lance / Swordreaver / Hammer / Iron Bow / Fimbulvetr / Light / Longbow / Heal / Mend / Physic / Flux / Dusk Katti / Unda / Elunda / Arcunda / Steel Longbow / Wing Blade / Rusted Rapier / Hand of Justice / Cutlass / Supreme Axe / Partisan / Faelireiva / Driving Sword, Lance - Ereshkigal
 Armorslayer / Tornado - Artists Unknown
 Wyrmslayer / Runesword / Tomahawk / Aura / Concoction / Elixir / Thanatos / Empower - Zarg
 Lancereaver / Javelin / Fire / Shine / Fortify / Rescue / Barrier / Luna / Aenir's Fang / Perdition / Arch Bow / Upkeep Oil Phial / Radiant Bow - Seal
@@ -298,14 +298,14 @@ Blizzard / Custos Vocatio - CamTech075
 Hugo's Blueprint - SmithyGCN, Zarg, Soul Blazer
 Kingmaker - Jay109
 Durandal - SacredStones
-One True Solar / Resentment / Athenea / Crimson Curse - Seal, SacredWar
+One True Solar / Resentment / Athenea / Crimson Curse / Mage Piercer - Seal, SacredWar
 Steady Bulwark - EldritchA, Indogutsu Tenbuki
 Tome of Order - Valak
 Necklace of Feelings - Maxim
 Fire Emblem - UltraFenix
 Aliénor - SacredStones
 Lycia's Future - N426
-Greatsword / Munio / Sagittae - Kyrads
+Munio / Sagittae - Kyrads
 Warhammer / Purge - FuriousHaunter
 Wo Dao - SN_Ivan
 Grand Pavois - EldritchA, Indogutsu Tenbuki
