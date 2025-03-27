@@ -98,7 +98,7 @@ Tarema, Lancelot - Matthieu
 Esmeralda, Edolina - Kanna
 ??? - MemeStarAlbert
 Clark, Lerne, Hendrik - LaurentLacroix
-Generic Soldier (Unknown Army), Gauvain - Nuramon
+Gauvain - Nuramon
 Santo - RandomWizard
 Drin - LaurentLacroix
 Larry - Yasako
@@ -117,9 +117,6 @@ Abigail - monk-han
 Albert - Der
 Selavas - JiroPaiPai
 Ruben - SaintRubenio
-
-Army Generic Minimug (FE10) - Seal
-
 
 ### Miscellaneous & Skills
 
@@ -197,7 +194,7 @@ Mages - Ash3wl, L95, Dominus_Vobiscum
 Lost - CanDy
 Fighters - Alusq
 Ballisticians - Pushwall
-Mage / Divine / Ice / Earth Dragons - L95
+Julia's Mage Animations - L95
 Fire Dragons - Kemui52
 Mercenary (F) - Agro
 Sword General - Norikins
@@ -219,15 +216,16 @@ Ghost - Eldritch Animation
 Celindra / Ephraim F + Weapons - Base IS ; DerTheVaporeon, Pikmin1211, ZoramineFae (Sword/Staff) → Fixed Staff : Permafrost
 Reinfred / FE15 Style Myrmidon / Wyvern Lord / Tristan Battle Anims / Hero (M/F) Animations / Soldier / Mage Armor / Albree's Anims / Spear Champion - Nuramon
 Thieves / Roy Anims (Great Lord) - Pikmin
-Cavaliers & Paladins - SALVAGED
+Cavaliers & Paladins, Mercs - SALVAGED
 Ashley (Nino Light Mage) - Mikey Séregon
 Generals - Leo_link, Nuramon, Iscaneus, The_Big_Dededester, Sax Marine, DerTheVaporeon
 Pegasus Knight - OreoStyx, MK404, MakeFEGayer
 Trueblade - Redbean, Jj09
+Assassins - Jj09
 Custom Shaman (???) - StreamingTofu
 Fighter (M) / Bulwark Lord - Leo_Link
 Fighter (F) - Pikmin
-Pirates - Der
+Pirates, Archers - Der
 Ballisticians - Spun
 Long Ballisticians - Seal
 Swordmaster Mia / Custom Sophia / Archsage Lilina / Elia's Anims - Redbean
@@ -237,7 +235,6 @@ Halberdier (F) → Aureli's unique animation - Black Mage
 Male Thief - GabrielKnight
 Wyvern Rider Axe/Handaxe - Mikey Seregon, Alfred Kamon
 Female Mercenary (Lorelei) - TheBlindArcher, Knabepicer
-Cath Animations - Redbean
 Guinivere Animations - Aruka
 Berserker F / Nomad - Repal
 Necromancer (Umbral Scholar) - Tythebub
@@ -253,6 +250,7 @@ Soldier F - Alusq
 Warrior F - Temp
 Exeutioner - Huichelaar, Konami
 Rebecca Anims - Greentea
+Brigands - Flasuban
 
 ### Spell Animations
 Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation - Mikey Seregon
@@ -270,8 +268,8 @@ Sagittae - HyperGammaGames
 
 ### Items
 
-Silver Sword / Fiery Sword / Steel / Silver Blade / Killing Edge / Brave Lance / Silver Axe / Timeless Axe / Short Bow / Recover / Restore / Warp / Eclipse / Lumine's Bolt / Iron / Steel / Silver Greatlance / Arcwind / Arcfire / Wing Lance / Etherbane Edge / Keepsake Blade / Immolation / Corruption / Supreme Sword / Supreme Lance / Eftirlit / Truthfire - LordGlenn
-Iron Sword / Master Lance / Master Axe / Master Bow / Light Brand / Killer Lance / Ridersbane / Axereaver / Elfire / Jormungand / Bolt Axe / Flame Sword / Dark Seal / Scorching Crown / Blazing Honor / Crossbow / Piercer / Abyssal Bow - Batima
+Silver Sword / Fiery Sword / Steel / Silver Blade / Killing Edge / Brave Lance / Silver Axe / Timeless Axe / Short Bow / Recover / Restore / Warp / Eclipse / Lumine's Bolt / Iron / Steel / Silver Greatlance / Arcwind / Arcfire / Wing Lance / Etherbane Edge / Keepsake Blade / Immolation / Corruption / Supreme Sword / Supreme Lance / Eftirlit / Truthfire / Limbo - LordGlenn
+Iron Sword / Master Lance / Master Axe / Master Bow / Light Brand / Killer Lance / Ridersbane / Axereaver / Elfire / Jormungand / Bolt Axe / Flame Sword / Dark Seal / Scorching Crown / Blazing Honor / Crossbow / Piercer / Abyssal Bow / Main Gauche - Batima
 Steel / Slim Sword / Iron Lance / Iron Axe / Steel Bow / Nosferatu / Thoron / Wing Clipper / Spirit Dust / Shroud / Fire Breath / Driving Axe, Bow - Celice
 Iron Blade / Halberd / Hand Axe / Silence / Sleep / Berserk / Torch / Hammerne / Unlock / Fenrir / Nightmaria / Zane
 Rapier / Divine / Nova - Peerless
@@ -289,7 +287,7 @@ Vulnerary - CardCafe
 Spear - CamTech075
 Killer Bow / Brave Bow / Skill Scroll / Four Leaf Clover / Precious Stone / Starfall / Greatbow - GabrielKnight
 Abyssus Iudicium / Silver Longbow / Skyripper / Expert Grip - LordGlenn
-Silver Bow / Door/Chest Key / Platine Card / Levin Sword / Supreme Bow / Pike / Pommel Lance / Francisca / Binding Stories - Zelix
+Silver Bow / Door/Chest Key / Platine Card / Levin Sword / Supreme Bow / Pike / Pommel Lance / Francisca / Binding Stories / Julia's Diary / Celendria's Fold - Zelix
 Steel / Silver Ballista / Delphi Shield - Vanilla + Blitz
 Iron / Steel / Silver Poleaxe - lovemachine
 Astral Somnium - Beansy
@@ -341,7 +339,7 @@ FE4: When the Rush Comes - DrGreen3339
 Pokemon MD Explorers of Time+Space+Sky: Dialga's Fight to the Finish - GratedShtick
 Shenmue: Nightfall, Shenhua, Land of Eternity - Pandan
 Pokemon Ranger Guardian Signs: Legendary Pokemon - Uncredited on the repository
-FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage / FE17 Fallen Petals / FE6 Join Us! Remix - HunterAurzo
+FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage / FE17 Fallen Petals / FE6 Join Us!, Arena Battle Remix - HunterAurzo
 SaGa Frontier II: Feldschlact III - SaXor the Nobody
 Castlevania DoS Cursed Clock Tower, The Pinnacle / Pokemon Mystery Dungeon Explorers of Sky - Time Gear / Zelda Spirit Tracks Demon Train, Malladus Phase 3 - TrikkiNikki
 Crimson Ridge - nyawenyye
@@ -381,7 +379,7 @@ Send unit's items on death - Contro
 Auto-repair weapons - Retina
 Neutral Army - ultrax (Unable to cross greens) & ditto (Unable to attack or be attacked greens)
 
-Remove Negative Stats on Weapons, KillSealSkills, AuroreSupportGains, NecklaceOfFeelings, AircaliburFix, Canto+ Fix, Provoke Fix - ditto
+Remove Negative Stats on Weapons, KillSealSkills, AuroreSupportGains, NecklaceOfFeelings, AircaliburFix, Canto+ Fix, Provoke Fix, Limbo's alternative description - ditto
 
 SkillSystems -
 Circleseverywhere
