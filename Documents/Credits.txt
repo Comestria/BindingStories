@@ -40,7 +40,7 @@ Alicianrone - Slater
 Lulu - Slater
 
 Cecilia, Cath - RedBean
-Aline, Laurence, Xalvador, Sunilda, Frank, Eliot - LaurentLacroix
+Aline, Xalvador, Frank, Eliot - LaurentLacroix
 Branwyne - monk-han
 Albree - LaurentLacroix, Levin 64
 Tristan - LaurentLacroix
@@ -93,7 +93,7 @@ Clarine - Redbean, Plant_Academy
 Batta - SaintRubenio
 Jacob - GenericPretsel
 
-Dreyjan - Random Wizard
+Dreyjan, Bolvir, Dorjar - RandomWizard
 Tarema, Lancelot - Matthieu
 Esmeralda, Edolina - Kanna
 ??? - MemeStarAlbert
@@ -251,6 +251,8 @@ Warrior F - Temp
 Exeutioner - Huichelaar, Konami
 Rebecca Anims - Greentea
 Brigands - Flasuban
+Penitent - GigaExcalibur
+Hime's Animations - Russel Clark
 
 ### Spell Animations
 Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation - Mikey Seregon
@@ -270,7 +272,7 @@ Sagittae - HyperGammaGames
 
 Silver Sword / Fiery Sword / Steel / Silver Blade / Killing Edge / Brave Lance / Silver Axe / Timeless Axe / Short Bow / Recover / Restore / Warp / Eclipse / Lumine's Bolt / Iron / Steel / Silver Greatlance / Arcwind / Arcfire / Wing Lance / Etherbane Edge / Keepsake Blade / Immolation / Corruption / Supreme Sword / Supreme Lance / Eftirlit / Truthfire / Limbo - LordGlenn
 Iron Sword / Master Lance / Master Axe / Master Bow / Light Brand / Killer Lance / Ridersbane / Axereaver / Elfire / Jormungand / Bolt Axe / Flame Sword / Dark Seal / Scorching Crown / Blazing Honor / Crossbow / Piercer / Abyssal Bow / Main Gauche - Batima
-Steel Sword / Iron Lance / Iron Axe / Steel Bow / Nosferatu / Thoron / Spirit Dust / Shroud / Fire Breath / Driving Axe, Bow - Celice
+Steel Sword / Iron Lance / Iron Axe / Steel Bow / Nosferatu / Thoron / Spirit Dust / Shroud / Fire Breath / Driving Axe, Bow / Laekna / Sumika's Wings - Celice
 Iron Blade / Halberd / Hand Axe / Silence / Sleep / Berserk / Torch / Hammerne / Unlock / Fenrir / Nightmaria - Zane
 Rapier / Divine / Nova - Peerless
 Brave Sword / Silver Lance / Swordreaver / Hammer / Iron Bow / Light / Iron Longbow / Heal / Mend / Physic / Flux / Light Swiftiron / Unda / Elunda / Arcunda / Steel Longbow / Wing Blade / Hand of Justice / Cutlass / Supreme Axe / Partisan / Faelireiva / Driving Sword, Lance - Ereshkigal
