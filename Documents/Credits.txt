@@ -22,9 +22,10 @@ Rose - Commission by Scraiza
 Melchior - Commission by Scraiza
 Older Roy - Commission by Scraiza
 Older Lilina - Commission by Scraiza
-Older Cath - Commission by Scraiza
+Laura - Scraiza
 Older Héloïse - Commission by Scraiza
 Héloïse - Scraiza
+Julia - Commission by Scraiza
 
 Vetrelmar - Slater
 Forialven - Slater
@@ -39,59 +40,42 @@ Lorelei - Slater
 Alicianrone - Slater
 Lulu - Slater
 
-Cecilia, Cath - RedBean
+Cecilia - RedBean
 Aline, Xalvador, Frank, Eliot - LaurentLacroix
-Branwyne - monk-han
 Albree - LaurentLacroix, Levin 64
 Tristan - LaurentLacroix
 Rolph - LaurentLacroix
-Lumine, Ismena, Lily, Marine, Lucie, Aria, Reine - Kanna
-Sarin, Carl, Leinvein - Levin64
-Nick, Marvin - LaurentLacroix
-Erweln, Carlos, Alicia - MeatOfJustice
+Lumine, Ismena, - Kanna
+Sarin - Levin64
+Conan - LaurentLacroix
+Carlos - MeatOfJustice
 Adrova - XVI
-Rana - Parrhesia
 Brad - Keppler
 Linia - MeatOfJustice
 Torm - Lenh6
-Mona, Clara, Esarria - XVI
 Laurine - Raymond
-Leon, Ruby - Obsidian Daddy
+Ruby - Obsidian Daddy
 Dorein, Paul, Roswenn, Armin, Godefroy, Simeon - Nickt
 Vincent - monk-han
-Maud, Gordil - CapibaraInSpace
-Lisa, Lierin - GhostBlade
+Ellyn / Galgaliel - GhostBlade
 Viktor - AmBrosiac
 Erdrin - flasuban
 Lyn - MonkeyBard
 Nino - Spoon_Rhythm, Magelord Max
 Roy - BorsDeep
-Aureli - Free, Kanna
-Francis - Cravat
-Iztven - Random Wizard
-Myrian - Armory
-Linda - SSHX
 Jenny - It's Just Jay
 Umbra - Zwelix
 Oswald - MegaCowsamMan
-Eyris - Zeldacrafter
-David - Goldblitzx
-Eiran, Morgane - Mexicancactus2911
 Charlie - LaurentLacroix
 Gerth - MegaCowsamMan
 Guinivere, Klein - Plant_Academy
-Elceer - SirNicee
-Améline - Kon
-Liam - Peerless
 Sheryl - LaurentLacroix
-Sheiro - SaintRubenio
-Illescia - Shirex
-Rebecca - Spoon_Rhythm, Teelvade, UltraFenix
-Jan - topazlight
 Bors - UltraFenix
 Clarine - Redbean, Plant_Academy
-Batta - SaintRubenio
 Jacob - GenericPretsel
+Leon - XVI
+Samaël - Melia
+Theoria - Xenith
 
 Dreyjan, Bolvir, Dorjar - RandomWizard
 Tarema, Lancelot - Matthieu
@@ -117,6 +101,7 @@ Abigail - monk-han
 Albert - Der
 Selavas - JiroPaiPai
 Ruben - SaintRubenio
+Cedric - CanDy
 
 ### Miscellaneous & Skills
 
@@ -228,7 +213,7 @@ Fighter (F) - Pikmin
 Pirates, Archers - Der
 Ballisticians - Spun
 Long Ballisticians - Seal
-Swordmaster Mia / Custom Sophia / Archsage Lilina / Elia's Anims - Redbean
+Swordmaster Mia / Custom Sophia / Archsage Lilina / Elia's Anims / Sora's Anims - Redbean
 Lumine Battle Animations (Louise) - Greentea
 Halberdier (M) - TBA
 Halberdier (F) → Aureli's unique animation - Black Mage
@@ -265,8 +250,8 @@ Astral Somnium / Shroud - SHYUTERz
 Thoron - Arch
 Tome of Order - Aircalibur rip (Arch, Blazer)
 Corruption - Orihara_Saki
-Lycia's Future - SHYUTERz, HIROTO
 Sagittae - HyperGammaGames
+Sword Wave - lovemachine, Mikey Seregon
 
 ### Items
 
@@ -308,6 +293,8 @@ Wo Dao - SN_Ivan
 Grand Pavois - EldritchA, Indogutsu Tenbuki
 Shaded Bow - 2WB, Hanakko
 Laura's Ribbon - SMITHYGCN
+Blasting Light - SmithyGCN, Zarg
+Zweihander - VelvetKitsune, 2WB, Ereshkigal
 
 ### Music
 
