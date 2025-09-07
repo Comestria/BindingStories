@@ -1,0 +1,127 @@
+//
+// Awakening of Talent & Delta Field skills for Comestria by Ditto
+//
+
+#define AwakeningOfTalentMenuName 0x1190
+#define AwakeningOfTalentMenuDesc 0x1191
+#define DeltaFieldMenuName 0x1192
+#define DeltaFieldMenuDesc 0x1193
+#define FrozenHelpBoxTextID 0x1194
+
+#define SkillTester 0x08B60924
+#define BS_TextTable 0x09106174
+#define SetText(id, ptr) "PUSH; ORG BS_TextTable+id*4; POIN (ptr | 0x80000000); POP"
+
+
+SetText(AwakeningOfTalentMenuName, AwakeningOfTalentMenuName_PTR)
+SetText(DeltaFieldMenuName, DeltaFieldMenuName_PTR)
+SetText(FrozenHelpBoxTextID, FrozenHelpBoxText_PTR)
+
+ALIGN 4
+AOTDFText:
+#incbin "Text.bin"
+
+PUSH
+
+// set text pointers
+ORG AOTDFText; AwakeningOfTalentMenuName_PTR:
+ORG AOTDFText+0x8; DeltaFieldMenuName_PTR:
+ORG AOTDFText+0x14; FrozenHelpBoxText_PTR:
+
+// Install stuff into the action unit menu command defs
+
+ORG 0xB82464+0x4
+SHORT AwakeningOfTalentMenuName
+SHORT AwakeningOfTalentMenuDesc
+ORG 0xB82464+0x9
+BYTE 0x4E
+ORG 0xB82464+0xC
+POIN AwakeningOfTalentUsability|1
+ORG 0xB82464+0x14
+POIN AwakeningOfTalentEffect|1
+
+ORG 0xB82488+0x4
+SHORT DeltaFieldMenuName
+SHORT DeltaFieldMenuDesc
+ORG 0xB82488+0x9
+BYTE 0x4E
+ORG 0xB82488+0xC
+POIN DeltaFieldUsability|1
+ORG 0xB82488+0x14
+POIN DeltaFieldEffect|1
+
+// add to prebattlecalcloop
+ORG 0xB82C10
+POIN AwakeningOfTalentPreBattle
+POIN DeltaFieldPreBattle
+
+POP
+
+// (1 << 20) is state bit, flag 0x7D is the flag for AOT and flag 0x7E is for DF
+
+ALIGN 4
+
+AwakeningOfTalentID:
+WORD 0x81
+
+AwakeningOfTalentFlag:
+WORD 0x7D
+
+AwakeningOfTalentUsability:
+#incbin "AwakeningOfTalent_Usability.bin"
+WORD SkillTester
+POIN AwakeningOfTalentID
+POIN AwakeningOfTalentFlag
+
+AwakeningOfTalentEffect:
+#incbin "AwakeningOfTalent_Effect.bin"
+POIN AwakeningOfTalentEvent
+POIN AwakeningOfTalentFlag
+WORD FrozenHelpBoxTextID
+
+AwakeningOfTalentEvent:
+STAL 8
+SOUN 0xB3
+STAL 75
+SOUN 0x269
+STAL 135
+ASMC RedrawMenuWrapper|1
+EVBIT_T 7; ENDA
+
+AwakeningOfTalentPreBattle:
+#incbin "AwakeningOfTalent_PreBattle.bin"
+WORD SkillTester
+POIN AwakeningOfTalentID
+
+DeltaFieldID:
+WORD 0xF1
+
+DeltaFieldFlag:
+WORD 0x7E
+
+DeltaFieldUsability:
+#incbin "DeltaField_Usability.bin"
+WORD SkillTester
+POIN DeltaFieldID
+POIN DeltaFieldFlag
+
+DeltaFieldEffect:
+#incbin "DeltaField_Effect.bin"
+POIN DeltaFieldEvent
+POIN DeltaFieldFlag
+WORD FrozenHelpBoxTextID
+
+DeltaFieldEvent:
+STAL 8
+SOUN 0x119
+STAL 75
+ASMC RedrawMenuWrapper|1
+EVBIT_T 7; ENDA
+
+DeltaFieldPreBattle:
+#incbin "DeltaField_PreBattle.bin"
+WORD SkillTester
+POIN DeltaFieldID
+
+RedrawMenuWrapper:
+#incbin "RedrawMenuWrapper.bin"
