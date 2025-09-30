@@ -128,7 +128,7 @@ Lance Cavalier (U), Sword Cavalier (U) - SALVAGED
 Sword Cavalier (F) / Ranger (F) / Sniper (M) / Light Mage (F) - RobertFPY
 Axe Paladin (M) - Shtic, SALVAGED
 Archer (M) / Pirate (M) - Der
-Archer (F) / Myrmidon (F) / Swordmaster (F) / Thief (F) / Sage (F) / Mage Knight (F) / Bishop (F) / Druid (F) - L95
+Archer (F) / Myrmidon (F) / Swordmaster (F) / Thief (F) / Sage (F) / Bishop (F) / Druid (F) - L95
 Sniper (F) - flasuban, L95
 Ballistician (U) - Aruka, Yggdra
 Soldier (M, F) / Fighter (M) / Wyvern Rider (F) / Wyvern Lord (M) / Mage Armor / Sword Pegasus - flasuban
@@ -225,7 +225,7 @@ Female Mercenary (Lorelei) - TheBlindArcher, Knabepicer
 Guinivere Animations - Aruka
 Berserker F / Nomad - Repal
 Necromancer (Umbral Scholar) - Tythebub
-Divine Watcher (Matriarch) / Arcane Scholar - MrNight48
+Scholar / Arcane Scholar - MrNight48
 Light Mage (F) - Teraspark
 Lost Marshall - St Jack
 Female Light Mage - Eldritch
