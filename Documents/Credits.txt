@@ -29,6 +29,8 @@ Julia - Commission by Scraiza
 Saki - Commission by Scraiza
 Amïsty - Commission by Scraiza
 Pandora - Commission by Scraiza
+Marc - Commission by Scraiza
+Fernet / Fernet (Armor) - Commission by Scraiza
 Lulu & Alicianrone - Gifts by Scraiza
 
 Vetrelmar - Slater
@@ -47,8 +49,7 @@ Aline, Xalvador, Frank, Eliot - LaurentLacroix
 Albree - LaurentLacroix, Levin 64
 Tristan - LaurentLacroix
 Rolph - LaurentLacroix
-Lumine, Ismena, - Kanna
-Sarin - Levin64
+Lumine - Kanna
 Conan - LaurentLacroix
 Carlos - MeatOfJustice
 Adrova - XVI
@@ -132,7 +133,7 @@ Archer (F) / Myrmidon (F) / Swordmaster (F) / Thief (F) / Sage (F) / Bishop (F) 
 Sniper (F) - flasuban, L95
 Ballistician (U) - Aruka, Yggdra
 Soldier (M, F) / Fighter (M) / Wyvern Rider (F) / Wyvern Lord (M) / Mage Armor / Sword Pegasus - flasuban
-Halberdier - TBA
+Halberdier / Troubadour - TBA
 Mercenary (M) - Rasdel
 Hero (M) - IS, SamirPlayz
 Hero (F) - RobertFPY, SamirPlayz
