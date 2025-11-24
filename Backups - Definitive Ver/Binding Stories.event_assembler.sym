@@ -3,4 +3,13 @@
 08B42B74 ASMC_Draw
 08B2A740 MagCharTable
 08B2A940 MagClassTable
-09292000 HiderUnhider
+08BA04AD RefreshItemsASMC
+08BA068D GetItemAfterUse
+08BA06ED BattleGenerateRoundHits
+08BA0781 ZeroDurabilityWeaponUsability
+08BA079D DrawItemStatScreenLine
+08BA08B1 DrawItemMenuLine
+08BA0989 DrawItemMenuLineLong
+08BA0A91 DrawItemMenuLineNoColor
+08BA0B2C ConvoySize_Link
+08BA0B30 PerChapterItemsList
