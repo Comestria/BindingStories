@@ -37,17 +37,6 @@ Hime - Commission by Scraiza
 Star Breaker - Commission by Scraiza
 Lulu & Alicianrone - Gifts by Scraiza
 
-Vetrelmar - Slater
-Forialven - Slater
-Young Reinfred, Celindra & Ashley - Slater
-Aurore - Slater
-Pearl - Slater
-Désirée - Slater
-Mevrick - Slater
-Ashildr, Felrindel, Celtinia, Cilicia - Slater
-Aldrina, Nailda - Slater
-Lorelei - Slater
-
 Cecilia - RedBean
 Aline, Xalvador, Frank, Eliot - LaurentLacroix
 Albree - LaurentLacroix, Levin 64
@@ -83,6 +72,7 @@ Jacob - GenericPretsel
 Leon - XVI
 Samaël - Melia
 Theoria - Xenith
+Rosso - Garytop
 
 Dreyjan, Bolvir, Dorjar - RandomWizard
 Tarema, Lancelot - Matthieu
@@ -109,6 +99,8 @@ Albert - Der
 Selavas - JiroPaiPai
 Ruben - SaintRubenio
 Cedric - CanDy
+Bramon - SacredStones
+Ranald - LaurentLacroix, UltraFenix, monk-han
 
 ### Miscellaneous & Skills
 Map Ch11 Upper Part, Ch16R, Paralogue 2 - Aura Wolf
@@ -207,6 +199,7 @@ Ghost - Eldritch Animation
 Tactician - ArcherBias
 Strategist - EA
 Private - MeatofJustice
+Ritualist - Estra
 
 ### Battle Animations
 Celindra / Ephraim F + Weapons - Base IS ; DerTheVaporeon, Pikmin1211, ZoramineFae (Sword/Staff) → Fixed Staff : Permafrost
@@ -245,12 +238,16 @@ Female Assassin - Keks_Krebs, Beccarte, SD9K
 Soldier F - Alusq
 Warrior F - Temp
 Exeutioner - Huichelaar, Konami
-Rebecca Anims - Greentea
 Brigands - Flasuban
 Penitent - GigaExcalibur
 Hime's Animations - Russel Clark
 Supplier - JonoTheRed
 Star Breaker Animations - BatimatheBat
+Private - Yosh
+Strategist, Tactician - Devisian_Knights
+Reika Anims - Repal
+Warmaiden (Lance) - Pushwall
+Ritualist - Melia
 
 ### Spell Animations
 Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation - Mikey Seregon
@@ -332,15 +329,16 @@ Valkyrie Profile: Oblivion's Joy, Sublime Domain / Etrian Odyssey 3 Those Who Sl
 F-Zero GP: Lightning - Pandan
 Rudrano Hihou: Strange Encounters / Renegade Level 2 - DerTheVaporeon
 FE12 Vs. Hardin / FE16 Paths That Will Never Cross - Azula
-FE4: Emperor Arvis, Neutral Army, Allied Army / Persona 3 FES Heartful Cry / M&L BIS The Grand Finale / Chrono Trigger Boss Battle 1 / DELTARUNE Hammer of Justice / FE3 Medeus, Shadow Dragon / Deltarune Guardian, Bmlack - SurfingKyogre
+FE4: Emperor Arvis, Neutral Army, Allied Army / Persona 3 FES Heartful Cry / M&L BIS The Grand Finale / Chrono Trigger Boss Battle 1 / DELTARUNE Hammer of Justice / FE3 Medeus, Shadow Dragon / Deltarune Guardian, Bmlack / Metroid Prime Phendrana Drifts - SurfingKyogre
 Faraway Voyage of 380.000 Kilometers - ZoraminaeFae
 FE4: When the Rush Comes - DrGreen3339
 Pokemon MD Explorers of Time+Space+Sky: Dialga's Fight to the Finish - GratedShtick
 Shenmue: Nightfall, Shenhua, Land of Eternity - Pandan
 Pokemon Ranger Guardian Signs: Legendary Pokemon - Uncredited on the repository
-FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage / FE17 Fallen Petals / FE6 Join Us!, Arena Battle Remix - HunterAurzo
+FE12 Theme of Love, Dark Emperor Hardin / FE11 A Hero Falls, Gotoh, White Sage / FE17 Fallen Petals / FE6 Arena Battle Remix / Riviera Battle Against Demons / OT Daughter of the Dark God - HunterAurzo
 SaGa Frontier II: Feldschlact III - SaXor the Nobody
-Castlevania DoS Cursed Clock Tower, The Pinnacle / Pokemon Mystery Dungeon Explorers of Sky - Time Gear / Zelda Spirit Tracks Demon Train, Malladus Phase 3 - TrikkiNikki
+Castlevania DoS Cursed Clock Tower, The Pinnacle / Pokemon Mystery Dungeon Explorers of Sky - Time Gear / Zelda Spirit Tracks Demon Train, Malladus Phase 3 /
+Castlevania OoE Clashing of Waves, Rhapsody of the Forsaken / EPF 4 Elfin - TrikkiNikki
 Crimson Ridge - nyawenyye
 FE5 Defeat is Near - Haiboku Chikashi
 Golden Sun Saturos Battle - Tristan Hollow
@@ -352,6 +350,7 @@ Yggdra Union We'll Never Fight Alone: Durant Sortie! - SaXor the Nobody
 LoZ Twilight Princess: Midna's Lament - MysteriousDancer
 Zero Escape Morphogenetic Sorrow / Epic Battle Fantasy 5 Those of Us Who Blossom - Tak
 Riviera Heaven's Gate - Pimin 1211
+Lufia 2 The Savior of Those on Earth - Cynon
 
 Plok Boss / SMT 3 Nocturne: Big Map / Guilty Gear X2: Good Manners and Customs / Super R Type: Return of the Creature / Lagoon: Desperate Dreams /
 Kingdom Hearts II: Sinister Shadows / Super Robot Wars: Arrow of Destiny / TRS: Knights of Razelia / Digital Devil Saga 2: Divine Identity /
