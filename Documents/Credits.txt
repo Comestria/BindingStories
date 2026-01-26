@@ -66,8 +66,6 @@ Charlie - LaurentLacroix
 Gerth - MegaCowsamMan
 Guinivere, Klein - Plant_Academy
 Sheryl - LaurentLacroix
-Bors - UltraFenix
-Clarine - Redbean, Plant_Academy
 Jacob - GenericPretsel
 Leon - XVI
 Samaël - Melia
@@ -157,9 +155,10 @@ Supplier - N426
 Tactician - Jj09
 Strategist - N426, Aruka, Yggdra
 Private - MeatofJustice
+Time Dragon - L95
 
 ### Map Sprites
-Celindra - (F) Hector Axe - Shin19
+Celindra - ArcherBias
 Celindra - Bulwark Lord - SD9K
 Melchior - Spartan (M) / Archers / Pirates - Der
 Lance Armor / Wyvern Rider / Rogue (F) - Unknown
@@ -181,10 +180,7 @@ Lost - CanDy
 Fighters - Alusq
 Ballisticians - Pushwall
 Julia's Mage Animations - L95
-Fire Dragons - Kemui52
 Mercenary (F) - Agro
-Sword General - Norikins
-Axe General - Blademaster
 Hero, Archer, Sniper, Thief, Myrmidon, Swordmaster, Sage (U) - CelestiaHeart
 Shaman - Ash3wl, L95
 Umbral Scholar - Unknown
@@ -200,6 +196,15 @@ Tactician - ArcherBias
 Strategist - EA
 Private - MeatofJustice
 Ritualist - Estra
+Spellthief, Crimecaster - FEGirls
+Sageblade - Leif, L95, Hanakko
+Spellsword - topazlight
+Thug - Rasdel
+General/Baron - Scraiza
+Magiquiver - MeatOfJustice
+Arrowcaster - ArcherBias
+Time Dragon - L95
+
 
 ### Battle Animations
 Celindra / Ephraim F + Weapons - Base IS ; DerTheVaporeon, Pikmin1211, ZoramineFae (Sword/Staff) → Fixed Staff : Permafrost
@@ -248,6 +253,12 @@ Strategist, Tactician - Devisian_Knights
 Reika Anims - Repal
 Warmaiden (Lance) - Pushwall
 Ritualist - Melia
+Thug - MonkeyBard
+Divine Dragon - L95
+Battle Sage - St Jack
+Hunter - MeatOfJustice
+Mage (Character) Custom Anims by RetroGamer
+
 
 ### Spell Animations
 Abyssus Iudicium / Wind / Elwind / Bolganone / Immolation - Mikey Seregon
@@ -262,6 +273,7 @@ Tome of Order - Aircalibur rip (Arch, Blazer)
 Corruption - Orihara_Saki
 Sagittae - HyperGammaGames
 Sword Wave - lovemachine, Mikey Seregon
+Chronostone - SHYUTERz, HIROTO
 
 ### Items
 Silver Sword / Fiery Sword / Steel / Silver Blade / Killing Edge / Brave Lance / Silver Axe / Timeless Axe / Short Bow / Recover / Restore / Warp / Eclipse / Lumine's Bolt / Iron / Steel / Silver Greatlance / Arcwind / Arcfire / Wing Lance / Etherbane Edge / Keepsake Blade / Immolation / Corruption / Supreme Sword / Supreme Lance / Eftirlit / Truthfire / Limbo - LordGlenn
@@ -274,7 +286,7 @@ Armorslayer / Tornado - Artists Unknown
 Runesword / Tomahawk / Aura / Concoction / Elixir / Thanatos / Empower - Zarg
 Lancereaver / Javelin / Fire / Shine / Fortify / Rescue / Barrier / Luna / Aenir's Fang / Perdition / Arch Bow / Upkeep Oil Phial / Radiant Bow - Seal
 Steel Axe / Swordslayer - Beansy
-Zanbato / Steel Lance / Killer / Silver Ballista / Meteor / Dagger / Bolganone / Ilscea's Dagger - Batima
+Zanbato / Steel Lance / Killer / Silver Ballista / Meteor / Dagger / Bolganone / Ilscea's Dagger / Chronostone - Batima
 Sleep Edge / Master Sword / Crusader (Legends) Scrolls / Iron Ballista / Paragon Sword / Myrkvi - Lisandra Brave
 Brave Axe - 2WB
 Killer Axe / Wind / Elwind - Jubby
@@ -306,7 +318,7 @@ Blasting Light - SmithyGCN, Zarg
 Zweihander - VelvetKitsune, 2WB, Ereshkigal
 
 ### Music
-100% Orange Juice: Suguri (46 Billion Years), Marc (Pilot) // QP Dangerous Shooting Sweet Breaker Phase 1 - Mycahel
+100% Orange Juice: Suguri (46 Billion Years), Marc (Pilot) // QP Dangerous Shooting Sweet Breaker Phase 1 / Octopath Traveler 0 In Flames - Mycahel
 Octopath Traveler ~ Osvald the Scholar, Torrent of Evil // 100% Orange Juice ~ Sora (Military) - Scraiza
 
 NieR Automata ~ Shadowlord's Castle / FF13 | Desperate Struggle / NieR Automata: Dark Colossus Destroys All / Monster Hunter Black Fatalis - Mycahel
@@ -344,9 +356,9 @@ FE5 Defeat is Near - Haiboku Chikashi
 Golden Sun Saturos Battle - Tristan Hollow
 Street Fighter 2 Ken's Theme - Scraiza
 Guilty Gear X Advance: Venom's Theme - MeatofJustice
-Revolution / Fallen Friend / Emergence / Anima Chant / Escape / Winter of the Sun and Moon - Runa
+Revolution / Fallen Friend / Emergence / Anima Chant / Escape / Winter of the Sun and Moon / Attack! - Runa
 Romancing Saga 3: Vanguard Start - 7743
-Yggdra Union We'll Never Fight Alone: Durant Sortie! - SaXor the Nobody
+Yggdra Union We'll Never Fight Alone: Durant Sortie! / Tales of Eternia Eternal Mind - SaXor the Nobody
 LoZ Twilight Princess: Midna's Lament - MysteriousDancer
 Zero Escape Morphogenetic Sorrow / Epic Battle Fantasy 5 Those of Us Who Blossom - Tak
 Riviera Heaven's Gate - Pimin 1211
